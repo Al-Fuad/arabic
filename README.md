@@ -24,3 +24,9 @@ Curriculum data is in `src/data.js`; add original or licensed lessons there. The
 ## Deployment
 
 `vercel.json` specifies Vite build output. Domain target: `arabic.alfuad.me`. Its authoritative DNS is Cloudflare; use the exact CNAME supplied by Vercel for this project. Do not change unrelated apex, mail, or other subdomain records.
+
+## Book adaptation and publishing workflow
+
+The user manages Vercel through the GitHub repository `Al-Fuad/arabic`. Publish by pushing this repository only; do not deploy through the Vercel connector or CLI.
+
+The first volume of *Esho Arbi Shikhi* is now presented as native page-linked words, rules, revealable examples, flashcards and mixed exercises. Scanned page assets have been removed from public output. See `CONTENT-AUDIT.md` for precise coverage and outstanding editorial verification; the current adaptation is not an exhaustive transcription.
