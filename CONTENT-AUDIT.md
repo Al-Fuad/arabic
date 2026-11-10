@@ -18,3 +18,11 @@ These are selected manually checked teaching items, not an exhaustive transcript
 Rules are currently organized by the original 20 lessons. The rule panel repeats within a lesson; 11 source pages also have specific rule commentary; not every page has independently authored rule commentary. Introductory and blank pages are represented as learning transitions.
 
 Written answers normalize optional vowel marks and basic punctuation, but require the demonstrated wording. Alternative correct paraphrases are not semantically graded; the UI states this limitation.
+
+## Chapter presentation and speech update — 2026-11-10
+- Existing imported examples, including source repetitions, are retained in chapter/lesson views. This does not change the earlier incomplete full-source audit.
+- Vocabulary now uses an explicit vocalized lexicon. Harakat presence checks do not establish scholarly accuracy of every case ending.
+- Arabic text controls invoke device Text-to-Speech with the full original string, including tashkeel. No MP3 files are shipped. Arabic voice availability and acoustic realization of final i‘rab depend on the browser/device; exact pronunciation has not been certified.
+- `public/images/vocabulary-3d.webp`: AI-generated 4×4 atlas of 16 learning objects (book, pen, chair, house, door, lamp, wall, bed, mosque, backpack, ruler, clock, lock, key, umbrella, glasses), created using imagegen. Only matching vocabulary receives an illustration; other nouns are not assigned unrelated images.
+- Madinah: live integration of https://madinah.arabic.aramb.dev/api/books, documented at https://madinah.arabic.aramb.dev/docs. Verified 3 books, 82 lessons, 359 rules and permissive CORS on 2026-11-10. Third-party grammar companion, not an official Madina Arabic Reader edition. Source Arabic/English explanations are rendered as text with attribution; Bengali translation is explicitly pending. No API vocabulary was returned. Network failures offer retry.
+- Word-list CSV exports the active vocabulary/search/saved filter with UTF-8 BOM and quoted fields.

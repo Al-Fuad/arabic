@@ -1,6 +1,6 @@
 import {bookPages,normalizeArabic} from './esho-pages.js';
 export function lessonWords(lesson){const seen=new Set();return lesson.pages.flatMap(p=>bookPages[p].words.map(([ar,bn])=>({ar,bn,page:p}))).filter(w=>{const key=w.ar+'|'+w.bn;if(seen.has(key))return false;seen.add(key);return true;});}
-export function lessonExamples(lesson){const seen=new Set();return lesson.pages.flatMap(p=>bookPages[p].examples.map(([ar,bn])=>({ar,bn,page:p}))).filter(w=>{if(seen.has(w.ar))return false;seen.add(w.ar);return true;});}
+export function lessonExamples(lesson){const source=lesson.pages.flatMap(p=>bookPages[p].examples.map(([ar,bn])=>({ar,bn,page:p})));return [...source,...lesson.examples.filter(([ar])=>!source.some(e=>e.ar===ar)).map(([ar,bn])=>({ar,bn,page:lesson.start}))];}
 export function practiceBank(lesson){
  const words=lessonWords(lesson),examples=lessonExamples(lesson),bank=[];
  for(const w of words){

@@ -1,3 +1,4 @@
+import {vocalizeWord} from './arabic.js';
 // Page-linked, manually checked teaching material. This is a learning adaptation,
 // not a claim of exhaustive transcription. source-audit.json tracks remaining audit.
 const rows = [
@@ -90,5 +91,5 @@ const rows = [
 [102,'سجادة|জায়নামাজ;الجزء|খণ্ড;الأول|প্রথম;فضل|অনুগ্রহ','فِي مَسْجِدِ النُّورِ سَجَّادَةٌ غَالِيَةٌ|নূর মসজিদে একটি দামি জায়নামাজ আছে।;الْبَيْتُ الصَّغِيرُ بِجَانِبِ الشَّجَرَةِ الْعَالِيَةِ|ছোট ঘরটি উঁচু গাছটির পাশে।']
 ];
 const pairs=s=>s?s.split(';').map(x=>x.split('|')):[];
-export const bookPages=Object.fromEntries(rows.map(([page,words,examples])=>[page,{page,words:pairs(words),examples:pairs(examples),kind:page===48?'blank':[49,89].includes(page)?'introduction':'lesson',audit:'selected-material-checked'}]));
+export const bookPages=Object.fromEntries(rows.map(([page,words,examples])=>[page,{page,words:pairs(words).map(([ar,bn])=>[vocalizeWord(ar,bn),bn]),examples:pairs(examples),kind:page===48?'blank':[49,89].includes(page)?'introduction':'lesson',audit:'selected-material-checked'}]));
 export const normalizeArabic=s=>s.normalize('NFKC').replace(/[\u064b-\u065f\u0670\u0640]/g,'').replace(/[أإآٱ]/g,'ا').replace(/[؟?،,.!]/g,'').replace(/\s+/g,' ').trim();
