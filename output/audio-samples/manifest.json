@@ -1,0 +1,43 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Kore",
+  "style": "A clear native Modern Standard Arabic teacher, slightly slow natural speech for a beginner. Pronounce the word exactly once, with all written vowel marks, doubled consonants, and the final tanween fully audible even in isolation. No introduction, translation, repetition, or music.",
+  "reviewStatus": "Pending human pronunciation and speed review; source images checked for these five words only.",
+  "samples": [
+    {
+      "id": "kitab",
+      "arabic": "كِتَابٌ",
+      "bengali": "বই",
+      "sourcePage": 15,
+      "file": "kitab.wav"
+    },
+    {
+      "id": "qalam",
+      "arabic": "قَلَمٌ",
+      "bengali": "কলম",
+      "sourcePage": 15,
+      "file": "qalam.wav"
+    },
+    {
+      "id": "misbah",
+      "arabic": "مِصْبَاحٌ",
+      "bengali": "বাতি",
+      "sourcePage": 15,
+      "file": "misbah.wav"
+    },
+    {
+      "id": "haqibah",
+      "arabic": "حَقِيبَةٌ",
+      "bengali": "ব্যাগ",
+      "sourcePage": 17,
+      "file": "haqibah.wav"
+    },
+    {
+      "id": "sabburah",
+      "arabic": "سَبُّورَةٌ",
+      "bengali": "ব্ল্যাকবোর্ড",
+      "sourcePage": 17,
+      "file": "sabburah.wav"
+    }
+  ]
+}

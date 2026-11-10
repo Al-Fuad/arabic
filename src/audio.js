@@ -1,8 +1,21 @@
-// Speak the complete, unmodified vocalized text. No audio files or network service.
-let utterance=null,request=0,cleanup=()=>{};
-export function stopArabic(){request++;cleanup();cleanup=()=>{};utterance=null;if('speechSynthesis' in window)window.speechSynthesis.cancel();}
+import wordAudio from './word-audio.json' with {type:'json'};
+// Only completed local files use the approved voice. Other text uses device TTS.
+let utterance=null,recording=null,request=0,cleanup=()=>{};
+export function stopArabic(){request++;if(recording){recording.onended=null;recording.onerror=null;recording.pause();recording=null;}cleanup();cleanup=()=>{};utterance=null;if('speechSynthesis' in window)window.speechSynthesis.cancel();}
 export function speakArabic(text,notify=()=>{}){
  stopArabic();
+ if(!text?.trim())return;
+ const file=wordAudio[text.normalize('NFC')];
+ if(!file){speakDeviceArabic(text,notify);return;}
+ const id=request;
+ const player=new Audio(file);recording=player;
+ const fallback=()=>{if(id!==request||recording!==player)return;stopArabic();speakDeviceArabic(text,notify);};
+ player.onended=()=>{if(id===request){recording=null;notify('উচ্চারণ শেষ হয়েছে।');}};
+ player.onerror=fallback;
+ notify('অনুমোদিত কণ্ঠের অডিও চলছে…');
+ try{const started=player.play();started?.catch(fallback);}catch{fallback();}
+}
+function speakDeviceArabic(text,notify=()=>{}){
  if(!text?.trim())return;
  if(!('speechSynthesis' in window)){notify('এই ব্রাউজারে Text-to-Speech নেই। সমর্থিত ব্রাউজার ব্যবহার করুন।');return;}
  const synth=window.speechSynthesis,id=request;
@@ -13,7 +26,7 @@ export function speakArabic(text,notify=()=>{}){
   if(!voice){notify('আরবি TTS কণ্ঠ পাওয়া যায়নি। ডিভাইসের ভাষা/Accessibility সেটিংসে Arabic voice যোগ করে আবার চাপুন।');return;}
   // Keep a strong reference until completion; Safari may otherwise stop early.
   utterance=new SpeechSynthesisUtterance(text);utterance.voice=voice;utterance.lang=voice.lang;utterance.rate=.8;utterance.pitch=1;utterance.volume=1;
-  utterance.onstart=()=>{if(id===request)notify('◖)) পুরো আরবি বাক্য পড়া হচ্ছে…');};
+  utterance.onstart=()=>{if(id===request)notify('এই লেখার অনুমোদিত অডিও পাওয়া যায়নি; ডিভাইসের আরবি কণ্ঠে পড়া হচ্ছে…');};
   utterance.onend=()=>{if(id===request){notify('উচ্চারণ শেষ হয়েছে।');utterance=null;}};
   utterance.onerror=event=>{if(id===request&&!['canceled','interrupted'].includes(event.error))notify('উচ্চারণ চালানো যায়নি। আরবি লেখায় আবার চাপুন বা ডিভাইসের Arabic voice পরীক্ষা করুন।');};
   synth.resume();synth.speak(utterance);

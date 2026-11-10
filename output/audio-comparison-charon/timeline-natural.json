@@ -1,0 +1,37 @@
+[
+  {
+    "arabic": "رَجُلٌ",
+    "sourcePage": 25,
+    "startSeconds": 0
+  },
+  {
+    "arabic": "قَلَمٌ",
+    "sourcePage": 15,
+    "startSeconds": 2.44
+  },
+  {
+    "arabic": "كِتَابٌ",
+    "sourcePage": 15,
+    "startSeconds": 4.8
+  },
+  {
+    "arabic": "حَقِيبَةٌ",
+    "sourcePage": 17,
+    "startSeconds": 7.6
+  },
+  {
+    "arabic": "خُبْزٌ",
+    "sourcePage": 55,
+    "startSeconds": 10.52
+  },
+  {
+    "arabic": "عَيْنٌ",
+    "sourcePage": 71,
+    "startSeconds": 13.12
+  },
+  {
+    "arabic": "مِصْبَاحٌ",
+    "sourcePage": 15,
+    "startSeconds": 15.84
+  }
+]

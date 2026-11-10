@@ -1,0 +1,101 @@
+{
+  "limitations": "File and signal checks only. No direct listening or phonetic certification. Qualified human listening is required for makhraj, sifat, short vowels, shadda, vowel length and final endings.",
+  "files": [
+    {
+      "file": "output/audio-comparison-charon/rajul-natural.wav",
+      "durationSeconds": 1.44,
+      "signalSpanSeconds": 0.957,
+      "peak": 22111,
+      "clippedSamples": 0,
+      "rms": 3892
+    },
+    {
+      "file": "output/audio-comparison-charon/qalam-natural.wav",
+      "durationSeconds": 1.36,
+      "signalSpanSeconds": 0.76,
+      "peak": 22292,
+      "clippedSamples": 0,
+      "rms": 3161
+    },
+    {
+      "file": "output/audio-comparison-charon/kitab-natural.wav",
+      "durationSeconds": 1.8,
+      "signalSpanSeconds": 1.2,
+      "peak": 18180,
+      "clippedSamples": 0,
+      "rms": 3125
+    },
+    {
+      "file": "output/audio-comparison-charon/haqibah-natural.wav",
+      "durationSeconds": 1.92,
+      "signalSpanSeconds": 1.368,
+      "peak": 25030,
+      "clippedSamples": 0,
+      "rms": 3463
+    },
+    {
+      "file": "output/audio-comparison-charon/khubz-natural.wav",
+      "durationSeconds": 1.6,
+      "signalSpanSeconds": 0.91,
+      "peak": 24944,
+      "clippedSamples": 0,
+      "rms": 3377
+    },
+    {
+      "file": "output/audio-comparison-charon/ayn-natural.wav",
+      "durationSeconds": 1.72,
+      "signalSpanSeconds": 1.131,
+      "peak": 22393,
+      "clippedSamples": 0,
+      "rms": 3030
+    },
+    {
+      "file": "output/audio-comparison-charon/misbah-natural.wav",
+      "durationSeconds": 1.8,
+      "signalSpanSeconds": 1.186,
+      "peak": 20292,
+      "clippedSamples": 0,
+      "rms": 3424
+    },
+    {
+      "file": "output/audio-samples/haqibah.wav",
+      "durationSeconds": 2.08,
+      "signalSpanSeconds": 1.581,
+      "peak": 25649,
+      "clippedSamples": 0,
+      "rms": 5131
+    },
+    {
+      "file": "output/audio-samples/kitab.wav",
+      "durationSeconds": 1.96,
+      "signalSpanSeconds": 1.302,
+      "peak": 24607,
+      "clippedSamples": 0,
+      "rms": 3683
+    },
+    {
+      "file": "output/audio-samples/misbah.wav",
+      "durationSeconds": 2.2,
+      "signalSpanSeconds": 1.54,
+      "peak": 28248,
+      "clippedSamples": 0,
+      "rms": 4743
+    },
+    {
+      "file": "output/audio-samples/qalam.wav",
+      "durationSeconds": 1.96,
+      "signalSpanSeconds": 1.416,
+      "peak": 23637,
+      "clippedSamples": 0,
+      "rms": 4176
+    },
+    {
+      "file": "output/audio-samples/sabburah.wav",
+      "durationSeconds": 2.4,
+      "signalSpanSeconds": 1.776,
+      "peak": 26889,
+      "clippedSamples": 0,
+      "rms": 4662
+    }
+  ]
+}
