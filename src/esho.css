@@ -4,3 +4,17 @@
 /* Arabic text is the playback control, with a visible keyboard focus. */
 .arabic-speak{display:block;background:transparent;border:0;color:var(--ink,#143b35);font-family:'Noto Naskh Arabic',serif;font-size:2rem;line-height:1.9;padding:.4rem .6rem;cursor:pointer;text-align:right;max-width:100%;overflow-wrap:anywhere;border-radius:12px}
 .arabic-speak:hover{background:#e8f3eb}.arabic-speak:focus-visible{outline:3px solid #208575;outline-offset:3px}.native-word>.arabic-speak{margin:auto}.native-word{padding:16px;text-align:center}.native-word details{margin-top:8px}.flashcard{display:flex;align-items:center;flex-direction:column;justify-content:center}.flashcard p{font-size:1.5rem}.word-export{margin:20px 0}.word-export>.button{margin:4px}.word-list-table{max-height:420px;overflow:auto;background:white;border:1px solid #dbe5df;border-radius:12px}.word-list-table table{border-collapse:collapse;width:100%}.word-list-table th,.word-list-table td{padding:12px;border-bottom:1px solid #e3eae5;text-align:start}.word-list-table td[lang=ar]{font-size:1.5rem}
+
+/* A compact Bengali reveal label with a comfortable touch target. */
+.native-word details>summary{font-weight:500;font-family:inherit;font-size:11px;line-height:1.5;display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:3px 10px;margin-top:4px;border-radius:20px;background:#edf3e7;color:#526b47}
+.native-word details>summary:focus-visible{outline:2px solid #56774b;outline-offset:3px}
+.learning-companion{position:fixed;right:20px;bottom:18px;z-index:40;display:flex;align-items:flex-end;gap:10px;max-width:calc(100vw - 24px);font-family:inherit}
+.companion-toggle{border:1px solid #d7dfcb;background:#fffdf6;border-radius:24px;padding:3px 8px 7px;cursor:pointer;box-shadow:0 6px 24px #294e4020;color:#365f42;flex-shrink:0}
+.companion-toggle img{display:block;object-fit:contain;width:88px;height:88px}.companion-toggle span{font-weight:500;display:block}
+.companion-panel{width:300px;padding:16px;background:#fffdf6;border:1px solid #d7dfcb;border-radius:18px;box-shadow:0 8px 30px #294e4026;color:#36543c}
+.companion-panel[hidden]{display:none}.companion-heading{display:flex;align-items:center;gap:10px;justify-content:space-between;font-size:12px}.companion-heading button{background:none;border:0;font-size:23px;color:inherit;cursor:pointer;min-width:32px;min-height:32px}.companion-panel p{font-size:13px;line-height:1.9;margin:10px 0 14px}.companion-actions{display:flex;flex-wrap:wrap;gap:8px}.companion-actions button,.companion-actions a{border:1px solid #d4dfc7;border-radius:10px;background:#edf3e7;padding:9px;color:#36543c;text-decoration:none;font:inherit;font-size:11px;cursor:pointer}.companion-react .companion-toggle{animation:hudhud-hop .45s ease-out}
+@keyframes hudhud-hop{50%{transform:translateY(-9px) rotate(-5deg)}}
+@media(max-width:600px){.learning-companion{right:10px;bottom:10px;gap:6px}.companion-toggle img{width:58px;height:58px}.companion-panel{width:min(280px,calc(100vw - 103px));padding:12px}footer{padding-bottom:105px}}
+@media(prefers-reduced-motion:reduce){.companion-react .companion-toggle{animation:none}}
+
+.vocab-art-single{background:none;object-fit:contain;background-color:#fffaf1}

@@ -1,0 +1,33 @@
+Create ONE square educational illustration sprite sheet containing EXACTLY 16 equal-sized cells in a precise 4-column × 4-row grid. Use the attached vocabulary image as a STYLE REFERENCE ONLY; the subjects must follow the list below.
+
+OUTPUT AND LAYOUT:
+- Square image, preferably 2048 × 2048 pixels. Exactly 4 columns and 4 rows; all cells equal size. If 2048 is supported, each cell is exactly 512 × 512 pixels.
+- Read positions LEFT TO RIGHT, then TOP TO BOTTOM (not Arabic reading order). Cell 01 is top-left; cell 04 top-right; cell 16 bottom-right.
+- Invisible straight grid boundaries. NO gutters, dividers, frames, rounded card borders, captions, numbers, text, letters, watermarks, or decorative elements between cells.
+- Every cell has the same plain warm ivory background (#FBF6ED). Keep each subject centered within the middle 75% of its own cell with a generous safety margin, fully visible and easy to crop. Nothing may overlap another cell.
+
+STYLE:
+Soft, rounded, high-quality handcrafted 3D clay illustrations; sage green, warm cream, ochre and natural wood tones; subtle material texture, soft studio lighting and gentle contact shadows. Match the attached reference consistently. Each object or minimal teaching scene must remain readable as a small vocabulary thumbnail.
+
+MEANING:
+Arabic and Bengali below identify the intended meaning; DO NOT print them in the image. Illustrate objects directly. For actions, show a minimal clear action scene. For adjectives, spatial relations, demonstratives and pronouns, show a simple contextual scene or comparison that communicates the intended meaning; use pointing gestures and relative distance when useful. Gender in Arabic is grammatical: do not assume every feminine noun needs a female person. For possession show the object with its owner. Abstract grammar and religious concepts should use respectful visual metaphors. Never depict God or prophets. Do not use insulting caricatures or stereotypes. These are memory aids and must not introduce unrelated objects.
+
+CELL CONTENTS (strict row-major order):
+Cell 01 (row 1, column 1): حُلْوٌ — মিষ্টি.
+Cell 02 (row 1, column 2): حَامِضٌ — টক.
+Cell 03 (row 1, column 3): سِوَارٌ — চুড়ি.
+Cell 04 (row 1, column 4): مُغْلَقٌ — বন্ধ.
+Cell 05 (row 2, column 1): الْوَلَدُ — বালকটি.
+Cell 06 (row 2, column 2): السَّيَّارَةُ — গাড়িটি.
+Cell 07 (row 2, column 3): الْقُفْلُ — তালাটি.
+Cell 08 (row 2, column 4): صَوْبٌ — সঠিক.
+Cell 09 (row 3, column 1): خَطَأٌ — ভুল.
+Cell 10 (row 3, column 2): مُبْتَدَأٌ — বাক্যের বিষয়.
+Cell 11 (row 3, column 3): خَبَرٌ — বিষয় সম্পর্কে বক্তব্য.
+Cell 12 (row 3, column 4): تَمْرَةٌ — একটি খেজুর.
+Cell 13 (row 4, column 1): التَّمْرُ — খেজুর.
+Cell 14 (row 4, column 2): التُّفَّاحُ — আপেল.
+Cell 15 (row 4, column 3): الرُّمَّانُ — ডালিম.
+Cell 16 (row 4, column 4): حَيَوَانٌ — প্রাণী.
+
+Final check: one square sheet, exactly 4 × 4 cells, all 16 specified subjects in the exact assigned positions. No text anywhere. Do not rearrange, combine, omit, duplicate or substitute subjects.

@@ -1,0 +1,4883 @@
+{
+  "version": 1,
+  "totalWords": 407,
+  "columns": 4,
+  "rows": 4,
+  "readingOrder": "left-to-right, top-to-bottom",
+  "suggestedPixels": 2048,
+  "grids": [
+    {
+      "id": "grid-01",
+      "expectedFilename": "grid-01.png",
+      "promptFile": "grid-01-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 0,
+          "ar": "كِتَابٌ",
+          "bn": "বই",
+          "sourcePages": [
+            15,
+            58
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 1,
+          "ar": "قَلَمٌ",
+          "bn": "কলম",
+          "sourcePages": [
+            15,
+            36,
+            44,
+            53,
+            100
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 2,
+          "ar": "بَيْتٌ",
+          "bn": "ঘর",
+          "sourcePages": [
+            15,
+            16,
+            19
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 3,
+          "ar": "بَابٌ",
+          "bn": "দরজা",
+          "sourcePages": [
+            15,
+            16,
+            33,
+            36
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 4,
+          "ar": "مَاءٌ",
+          "bn": "পানি",
+          "sourcePages": [
+            85
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 5,
+          "ar": "شَمْسٌ",
+          "bn": "সূর্য",
+          "sourcePages": []
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 6,
+          "ar": "قَمَرٌ",
+          "bn": "চাঁদ",
+          "sourcePages": []
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 7,
+          "ar": "مَسْجِدٌ",
+          "bn": "মসজিদ",
+          "sourcePages": [
+            15,
+            16,
+            19,
+            101
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 8,
+          "ar": "طَالِبٌ",
+          "bn": "ছাত্র",
+          "sourcePages": []
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 9,
+          "ar": "مُعَلِّمٌ",
+          "bn": "শিক্ষক",
+          "sourcePages": [
+            23,
+            36,
+            63,
+            93
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 10,
+          "ar": "أَبٌ",
+          "bn": "বাবা",
+          "sourcePages": [
+            32,
+            73,
+            74
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 11,
+          "ar": "أُمٌ",
+          "bn": "মা",
+          "sourcePages": [
+            32,
+            73,
+            74
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 12,
+          "ar": "أَخٌ",
+          "bn": "ভাই",
+          "sourcePages": [
+            32,
+            73,
+            74
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 13,
+          "ar": "أُخْتٌ",
+          "bn": "বোন",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 14,
+          "ar": "كَبِيرٌ",
+          "bn": "বড়",
+          "sourcePages": [
+            20,
+            31
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 15,
+          "ar": "صَغِيرٌ",
+          "bn": "ছোট",
+          "sourcePages": [
+            20,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-02",
+      "expectedFilename": "grid-02.png",
+      "promptFile": "grid-02-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 16,
+          "ar": "جَمِيلٌ",
+          "bn": "সুন্দর",
+          "sourcePages": [
+            20,
+            30,
+            47,
+            66,
+            71
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 17,
+          "ar": "جَدِيدٌ",
+          "bn": "নতুন",
+          "sourcePages": [
+            20,
+            21,
+            30,
+            96
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 18,
+          "ar": "وَاحِدٌ",
+          "bn": "এক",
+          "sourcePages": []
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 19,
+          "ar": "اِثْنَانِ",
+          "bn": "দুই",
+          "sourcePages": []
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 20,
+          "ar": "ثَلَاثَةٌ",
+          "bn": "তিন",
+          "sourcePages": []
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 21,
+          "ar": "أَرْبَعَةٌ",
+          "bn": "চার",
+          "sourcePages": []
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 22,
+          "ar": "خَمْسَةٌ",
+          "bn": "পাঁচ",
+          "sourcePages": []
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 23,
+          "ar": "سِتَّةٌ",
+          "bn": "ছয়",
+          "sourcePages": []
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 24,
+          "ar": "كُرْسِيٌّ",
+          "bn": "চেয়ার",
+          "sourcePages": [
+            15,
+            16,
+            19
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 25,
+          "ar": "مِصْبَاحٌ",
+          "bn": "বাতি",
+          "sourcePages": [
+            15,
+            16,
+            36,
+            100
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 26,
+          "ar": "جِدَارٌ",
+          "bn": "দেয়াল",
+          "sourcePages": [
+            15,
+            16,
+            19
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 27,
+          "ar": "سَرِيرٌ",
+          "bn": "খাট",
+          "sourcePages": [
+            15,
+            16,
+            78,
+            100
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 28,
+          "ar": "هٰذَا",
+          "bn": "এটি (পুংলিঙ্গ)",
+          "sourcePages": [
+            15
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 29,
+          "ar": "هٰذِهِ",
+          "bn": "এটি (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            15
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 30,
+          "ar": "ذٰلِكَ",
+          "bn": "সেটি (পুংলিঙ্গ)",
+          "sourcePages": [
+            15
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 31,
+          "ar": "تِلْكَ",
+          "bn": "সেটি (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-03",
+      "expectedFilename": "grid-03.png",
+      "promptFile": "grid-03-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 32,
+          "ar": "مَدْرَسَةٌ",
+          "bn": "বিদ্যালয়",
+          "sourcePages": [
+            17
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 33,
+          "ar": "سَبُّورَةٌ",
+          "bn": "ব্ল্যাকবোর্ড",
+          "sourcePages": [
+            17
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 34,
+          "ar": "مِسْطَرَةٌ",
+          "bn": "রুলার",
+          "sourcePages": [
+            17,
+            44
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 35,
+          "ar": "حَقِيبَةٌ",
+          "bn": "ব্যাগ",
+          "sourcePages": [
+            17,
+            19,
+            21,
+            44,
+            97
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 36,
+          "ar": "كُرَّاسَةٌ",
+          "bn": "খাতা",
+          "sourcePages": [
+            17,
+            44
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 37,
+          "ar": "طَاوِلَةٌ",
+          "bn": "টেবিল",
+          "sourcePages": [
+            17,
+            82
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 38,
+          "ar": "حُجْرَةٌ",
+          "bn": "কামরা",
+          "sourcePages": [
+            17,
+            90
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 39,
+          "ar": "غُرْفَةٌ",
+          "bn": "কামরা",
+          "sourcePages": [
+            17,
+            86,
+            100
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 40,
+          "ar": "نَافِذَةٌ",
+          "bn": "জানালা",
+          "sourcePages": [
+            17,
+            94
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 41,
+          "ar": "قُفْلٌ",
+          "bn": "তালা",
+          "sourcePages": [
+            18,
+            19,
+            58
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 42,
+          "ar": "مِفْتَاحٌ",
+          "bn": "চাবি",
+          "sourcePages": [
+            18,
+            19,
+            58
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 43,
+          "ar": "صُنْدُوقٌ",
+          "bn": "বাক্স",
+          "sourcePages": [
+            18
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 44,
+          "ar": "سَاعَةٌ",
+          "bn": "ঘড়ি",
+          "sourcePages": [
+            18,
+            19,
+            21,
+            66
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 45,
+          "ar": "مِظَلَّةٌ",
+          "bn": "ছাতা",
+          "sourcePages": [
+            18
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 46,
+          "ar": "نَظَّارَةٌ",
+          "bn": "চশমা",
+          "sourcePages": [
+            18,
+            19,
+            53
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 47,
+          "ar": "سَيَّارَةٌ",
+          "bn": "গাড়ি",
+          "sourcePages": [
+            18,
+            19,
+            83,
+            84,
+            96
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-04",
+      "expectedFilename": "grid-04.png",
+      "promptFile": "grid-04-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 48,
+          "ar": "دَرَّاجَةٌ",
+          "bn": "সাইকেল",
+          "sourcePages": [
+            18
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 49,
+          "ar": "مَا",
+          "bn": "কী",
+          "sourcePages": [
+            18
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 50,
+          "ar": "طَائِرَةٌ",
+          "bn": "বিমান",
+          "sourcePages": [
+            19
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 51,
+          "ar": "جَدِيدَةٌ",
+          "bn": "নতুন (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 52,
+          "ar": "قَدِيمٌ",
+          "bn": "পুরোনো",
+          "sourcePages": [
+            20,
+            96
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 53,
+          "ar": "قَدِيمَةٌ",
+          "bn": "পুরোনো (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 54,
+          "ar": "جَمِيلَةٌ",
+          "bn": "সুন্দর (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20,
+            21,
+            95
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 55,
+          "ar": "كَبِيرَةٌ",
+          "bn": "বড় (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20,
+            95
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 56,
+          "ar": "صَغِيرَةٌ",
+          "bn": "ছোট (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20,
+            59
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 57,
+          "ar": "نَظِيفٌ",
+          "bn": "পরিষ্কার",
+          "sourcePages": [
+            20,
+            28,
+            30,
+            97,
+            98
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 58,
+          "ar": "نَظِيفَةٌ",
+          "bn": "পরিষ্কার (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            20
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 59,
+          "ar": "عَلَمٌ",
+          "bn": "পতাকা",
+          "sourcePages": [
+            20,
+            21
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 60,
+          "ar": "حَدِيقَةٌ",
+          "bn": "বাগান",
+          "sourcePages": [
+            20
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 61,
+          "ar": "مِرْوَحَةٌ",
+          "bn": "পাখা",
+          "sourcePages": [
+            20,
+            21,
+            83,
+            100
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 62,
+          "ar": "وِسَادَةٌ",
+          "bn": "বালিশ",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 63,
+          "ar": "فِرَاشٌ",
+          "bn": "বিছানা",
+          "sourcePages": [
+            22,
+            101
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-05",
+      "expectedFilename": "grid-05.png",
+      "promptFile": "grid-05-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 64,
+          "ar": "قَلَنْسُوَةٌ",
+          "bn": "টুপি",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 65,
+          "ar": "قَمِيصٌ",
+          "bn": "জামা",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 66,
+          "ar": "عِمَامَةٌ",
+          "bn": "পাগড়ি",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 67,
+          "ar": "لِبَاسٌ",
+          "bn": "পোশাক",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 68,
+          "ar": "حِذَاءٌ",
+          "bn": "জুতা",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 69,
+          "ar": "مِنْدِيلٌ",
+          "bn": "রুমাল",
+          "sourcePages": [
+            22,
+            97
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 70,
+          "ar": "وَسِخٌ",
+          "bn": "নোংরা",
+          "sourcePages": [
+            22
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 71,
+          "ar": "رَخِيصٌ",
+          "bn": "সস্তা",
+          "sourcePages": [
+            22,
+            66
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 72,
+          "ar": "تِلْمِيذٌ",
+          "bn": "ছাত্র",
+          "sourcePages": [
+            23,
+            63
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 73,
+          "ar": "تِلْمِيذَةٌ",
+          "bn": "ছাত্রী",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 74,
+          "ar": "مُعَلِّمَةٌ",
+          "bn": "শিক্ষিকা",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 75,
+          "ar": "وَلَدٌ",
+          "bn": "বালক",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 76,
+          "ar": "بِنْتٌ",
+          "bn": "বালিকা",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 77,
+          "ar": "طِفْلٌ",
+          "bn": "শিশু (ছেলে)",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 78,
+          "ar": "طِفْلَةٌ",
+          "bn": "শিশু (মেয়ে)",
+          "sourcePages": [
+            23
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 79,
+          "ar": "أَنَا",
+          "bn": "আমি",
+          "sourcePages": [
+            23,
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-06",
+      "expectedFilename": "grid-06.png",
+      "promptFile": "grid-06-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 80,
+          "ar": "أَنْتَ",
+          "bn": "তুমি",
+          "sourcePages": [
+            23,
+            64
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 81,
+          "ar": "هُوَ",
+          "bn": "সে (পুরুষ)",
+          "sourcePages": [
+            23,
+            64
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 82,
+          "ar": "هِيَ",
+          "bn": "সে (নারী)",
+          "sourcePages": [
+            23,
+            64
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 83,
+          "ar": "مَنْ",
+          "bn": "কে",
+          "sourcePages": [
+            24
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 84,
+          "ar": "هَلْ",
+          "bn": "কি (হ্যাঁ-না প্রশ্ন)",
+          "sourcePages": [
+            24,
+            54
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 85,
+          "ar": "نَعَمْ",
+          "bn": "হ্যাঁ",
+          "sourcePages": [
+            24,
+            26,
+            54
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 86,
+          "ar": "لَا",
+          "bn": "না",
+          "sourcePages": [
+            24,
+            26,
+            54,
+            87
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 87,
+          "ar": "يَا",
+          "bn": "হে",
+          "sourcePages": [
+            24
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 88,
+          "ar": "تَاجِرٌ",
+          "bn": "ব্যবসায়ী",
+          "sourcePages": [
+            25
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 89,
+          "ar": "فَلَّاحٌ",
+          "bn": "কৃষক",
+          "sourcePages": [
+            25,
+            94
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 90,
+          "ar": "فَقِيرٌ",
+          "bn": "গরিব",
+          "sourcePages": [
+            25,
+            34
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 91,
+          "ar": "غَنِيٌّ",
+          "bn": "ধনী",
+          "sourcePages": [
+            25,
+            34
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 92,
+          "ar": "غَبِيٌّ",
+          "bn": "নির্বোধ",
+          "sourcePages": [
+            25
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 93,
+          "ar": "ذَكِيٌّ",
+          "bn": "বুদ্ধিমান",
+          "sourcePages": [
+            25,
+            97
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 94,
+          "ar": "رَجُلٌ",
+          "bn": "পুরুষ",
+          "sourcePages": [
+            25
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 95,
+          "ar": "اِمْرَأَةٌ",
+          "bn": "নারী",
+          "sourcePages": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-07",
+      "expectedFilename": "grid-07.png",
+      "promptFile": "grid-07-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 96,
+          "ar": "جِدًّا",
+          "bn": "খুব",
+          "sourcePages": [
+            25
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 97,
+          "ar": "شَرِيفٌ",
+          "bn": "ভদ্র",
+          "sourcePages": [
+            26,
+            28
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 98,
+          "ar": "مَشْهُورٌ",
+          "bn": "বিখ্যাত",
+          "sourcePages": [
+            26,
+            59,
+            62
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 99,
+          "ar": "بَلْ",
+          "bn": "বরং",
+          "sourcePages": [
+            26,
+            31
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 100,
+          "ar": "الْكِتَابُ",
+          "bn": "বইটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 101,
+          "ar": "الْقَلَمُ",
+          "bn": "কলমটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 102,
+          "ar": "الدَّرَّاجَةُ",
+          "bn": "সাইকেলটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 103,
+          "ar": "النَّافِذَةُ",
+          "bn": "জানালাটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 104,
+          "ar": "الْبَيْتُ",
+          "bn": "ঘরটি",
+          "sourcePages": [
+            27,
+            29,
+            68
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 105,
+          "ar": "الْجِدَارُ",
+          "bn": "দেয়ালটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 106,
+          "ar": "الْحَقِيبَةُ",
+          "bn": "ব্যাগটি",
+          "sourcePages": [
+            27
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 107,
+          "ar": "مُجْتَهِدٌ",
+          "bn": "পরিশ্রমী",
+          "sourcePages": [
+            28,
+            31
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 108,
+          "ar": "مُفِيدٌ",
+          "bn": "উপকারী",
+          "sourcePages": [
+            28,
+            95
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 109,
+          "ar": "مَفْتُوحٌ",
+          "bn": "খোলা",
+          "sourcePages": [
+            28,
+            67,
+            80,
+            93
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 110,
+          "ar": "وَاسِعٌ",
+          "bn": "প্রশস্ত",
+          "sourcePages": [
+            28
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 111,
+          "ar": "ضَيِّقٌ",
+          "bn": "সংকীর্ণ",
+          "sourcePages": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-08",
+      "expectedFilename": "grid-08.png",
+      "promptFile": "grid-08-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 112,
+          "ar": "شَرِيفَةٌ",
+          "bn": "ভদ্র (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            28
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 113,
+          "ar": "كَيْفَ",
+          "bn": "কেমন",
+          "sourcePages": [
+            29
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 114,
+          "ar": "مَرِيضٌ",
+          "bn": "অসুস্থ",
+          "sourcePages": [
+            29,
+            31
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 115,
+          "ar": "السَّاعَةُ",
+          "bn": "ঘড়িটি",
+          "sourcePages": [
+            29
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 116,
+          "ar": "التِّلْمِيذُ",
+          "bn": "ছাত্রটি",
+          "sourcePages": [
+            29
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 117,
+          "ar": "جَمَلٌ",
+          "bn": "উট",
+          "sourcePages": [
+            30
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 118,
+          "ar": "نَاقَةٌ",
+          "bn": "উটনী",
+          "sourcePages": [
+            30
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 119,
+          "ar": "ذَكِيَّةٌ",
+          "bn": "বুদ্ধিমতী",
+          "sourcePages": [
+            31
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 120,
+          "ar": "عَمٌّ",
+          "bn": "চাচা",
+          "sourcePages": [
+            32,
+            92
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 121,
+          "ar": "عَمَّةٌ",
+          "bn": "ফুফু",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 122,
+          "ar": "خَالٌ",
+          "bn": "মামা",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 123,
+          "ar": "خَالَةٌ",
+          "bn": "খালা",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 124,
+          "ar": "جَدٌّ",
+          "bn": "দাদা বা নানা",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 125,
+          "ar": "جَدَّةٌ",
+          "bn": "দাদি বা নানি",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 126,
+          "ar": "اِسْمٌ",
+          "bn": "নাম",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 127,
+          "ar": "بُسْتَانٌ",
+          "bn": "বাগান",
+          "sourcePages": [
+            32,
+            40,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-09",
+      "expectedFilename": "grid-09.png",
+      "promptFile": "grid-09-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 128,
+          "ar": "سَعِيدٌ",
+          "bn": "সুখী",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 129,
+          "ar": "طَيِّبٌ",
+          "bn": "ভালো",
+          "sourcePages": [
+            32
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 130,
+          "ar": "صَدِيقٌ",
+          "bn": "বন্ধু",
+          "sourcePages": [
+            33,
+            36,
+            74
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 131,
+          "ar": "صَدِيقَةٌ",
+          "bn": "বান্ধবী",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 132,
+          "ar": "قَرْيَةٌ",
+          "bn": "গ্রাম",
+          "sourcePages": [
+            33,
+            37,
+            94,
+            101
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 133,
+          "ar": "أَبِي",
+          "bn": "আমার বাবা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 134,
+          "ar": "أَبُوكَ",
+          "bn": "তোমার বাবা",
+          "sourcePages": [
+            33,
+            34
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 135,
+          "ar": "أَبُوهُ",
+          "bn": "তার (পুরুষের) বাবা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 136,
+          "ar": "أَبُوهَا",
+          "bn": "তার (নারীর) বাবা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 137,
+          "ar": "أَخِي",
+          "bn": "আমার ভাই",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 138,
+          "ar": "أَخُوكَ",
+          "bn": "তোমার ভাই",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 139,
+          "ar": "أَخُوهُ",
+          "bn": "তার (পুরুষের) ভাই",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 140,
+          "ar": "أَخُوهَا",
+          "bn": "তার (নারীর) ভাই",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 141,
+          "ar": "أُخْتِي",
+          "bn": "আমার বোন",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 142,
+          "ar": "غُرْفَتِي",
+          "bn": "আমার কামরা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 143,
+          "ar": "كِتَابِي",
+          "bn": "আমার বই",
+          "sourcePages": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-10",
+      "expectedFilename": "grid-10.png",
+      "promptFile": "grid-10-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 144,
+          "ar": "قَلَمِي",
+          "bn": "আমার কলম",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 145,
+          "ar": "حَقِيبَتِي",
+          "bn": "আমার ব্যাগ",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 146,
+          "ar": "كُرَّاسَتِي",
+          "bn": "আমার খাতা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 147,
+          "ar": "فِرَاشِي",
+          "bn": "আমার বিছানা",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 148,
+          "ar": "مُعَلِّمِي",
+          "bn": "আমার শিক্ষক",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 149,
+          "ar": "تِلْمِيذُهُ",
+          "bn": "তার ছাত্র",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 150,
+          "ar": "سَاعَتُهُ",
+          "bn": "তার ঘড়ি",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 151,
+          "ar": "لِبَاسُكَ",
+          "bn": "তোমার পোশাক",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 152,
+          "ar": "لِبَاسِي",
+          "bn": "আমার পোশাক",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 153,
+          "ar": "رَبٌّ",
+          "bn": "প্রভু",
+          "sourcePages": [
+            33,
+            35,
+            73,
+            90
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 154,
+          "ar": "دِينٌ",
+          "bn": "ধর্ম",
+          "sourcePages": [
+            33,
+            35,
+            73
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 155,
+          "ar": "طَيِّبٌ",
+          "bn": "উত্তম",
+          "sourcePages": [
+            33
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 156,
+          "ar": "عِقْدٌ",
+          "bn": "হার",
+          "sourcePages": [
+            33,
+            66
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 157,
+          "ar": "أُمُّكَ",
+          "bn": "তোমার মা",
+          "sourcePages": [
+            34
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 158,
+          "ar": "وَجْهٌ",
+          "bn": "মুখ",
+          "sourcePages": [
+            34,
+            71
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 159,
+          "ar": "نَبِيٌّ",
+          "bn": "নবী",
+          "sourcePages": [
+            35,
+            73
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-11",
+      "expectedFilename": "grid-11.png",
+      "promptFile": "grid-11-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 160,
+          "ar": "كِتَابُنَا",
+          "bn": "আমাদের বই",
+          "sourcePages": [
+            35
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 161,
+          "ar": "كِتَابُكُمْ",
+          "bn": "তোমাদের বই",
+          "sourcePages": [
+            35
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 162,
+          "ar": "كِتَابُهُمْ",
+          "bn": "তাদের বই",
+          "sourcePages": [
+            35
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 163,
+          "ar": "طَرِيقٌ",
+          "bn": "রাস্তা",
+          "sourcePages": [
+            37
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 164,
+          "ar": "مَدِينَةٌ",
+          "bn": "শহর",
+          "sourcePages": [
+            37,
+            94
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 165,
+          "ar": "نَهْرٌ",
+          "bn": "নদী",
+          "sourcePages": [
+            37,
+            82,
+            101
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 166,
+          "ar": "سُوقٌ",
+          "bn": "বাজার",
+          "sourcePages": [
+            37
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 167,
+          "ar": "زَوْجٌ",
+          "bn": "স্বামী",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 168,
+          "ar": "زَوْجَةٌ",
+          "bn": "স্ত্রী",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 169,
+          "ar": "وَالِدٌ",
+          "bn": "বাবা",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 170,
+          "ar": "وَالِدَةٌ",
+          "bn": "মা",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 171,
+          "ar": "الْقُرْآنُ",
+          "bn": "কুরআন",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 172,
+          "ar": "رَسُولٌ",
+          "bn": "রাসুল",
+          "sourcePages": [
+            38
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 173,
+          "ar": "عِنْدَ",
+          "bn": "কাছে",
+          "sourcePages": [
+            39
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 174,
+          "ar": "أَمَامَ",
+          "bn": "সামনে",
+          "sourcePages": [
+            39,
+            46,
+            84
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 175,
+          "ar": "تَحْتَ",
+          "bn": "নিচে",
+          "sourcePages": [
+            39,
+            46,
+            82,
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-12",
+      "expectedFilename": "grid-12.png",
+      "promptFile": "grid-12-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 176,
+          "ar": "وَرَاءَ",
+          "bn": "পেছনে",
+          "sourcePages": [
+            39,
+            46
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 177,
+          "ar": "خَلْفَ",
+          "bn": "পেছনে",
+          "sourcePages": [
+            39
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 178,
+          "ar": "فَوْقَ",
+          "bn": "ওপরে",
+          "sourcePages": [
+            39,
+            46,
+            82,
+            84
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 179,
+          "ar": "بِجَانِبِ",
+          "bn": "পাশে",
+          "sourcePages": [
+            39
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 180,
+          "ar": "شَاشَةٌ",
+          "bn": "পর্দা",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 181,
+          "ar": "سَاحَةٌ",
+          "bn": "আঙিনা",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 182,
+          "ar": "خَرِيطَةٌ",
+          "bn": "মানচিত্র",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 183,
+          "ar": "حَارِثٌ",
+          "bn": "চাষি",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 184,
+          "ar": "مَكْسُورٌ",
+          "bn": "ভাঙা",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 185,
+          "ar": "أَيْنَ",
+          "bn": "কোথায়",
+          "sourcePages": [
+            40
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 186,
+          "ar": "عِنْدِي",
+          "bn": "আমার কাছে",
+          "sourcePages": [
+            41
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 187,
+          "ar": "عِنْدَهَا",
+          "bn": "তার (নারীর) কাছে",
+          "sourcePages": [
+            41
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 188,
+          "ar": "أَمَامِي",
+          "bn": "আমার সামনে",
+          "sourcePages": [
+            41
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 189,
+          "ar": "فَوْقِي",
+          "bn": "আমার ওপরে",
+          "sourcePages": [
+            41
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 190,
+          "ar": "السَّمَاءُ",
+          "bn": "আকাশ",
+          "sourcePages": [
+            42
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 191,
+          "ar": "الْأَرْضُ",
+          "bn": "পৃথিবী",
+          "sourcePages": [
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-13",
+      "expectedFilename": "grid-13.png",
+      "promptFile": "grid-13-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 192,
+          "ar": "فَوْقَنَا",
+          "bn": "আমাদের ওপরে",
+          "sourcePages": [
+            42
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 193,
+          "ar": "تَحْتَنَا",
+          "bn": "আমাদের নিচে",
+          "sourcePages": [
+            42
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 194,
+          "ar": "فِي",
+          "bn": "ভেতরে",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 195,
+          "ar": "قَلْبٌ",
+          "bn": "হৃদয়",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 196,
+          "ar": "نُورٌ",
+          "bn": "আলো",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 197,
+          "ar": "ظُلْمَةٌ",
+          "bn": "অন্ধকার",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 198,
+          "ar": "خَيْرٌ",
+          "bn": "কল্যাণ",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 199,
+          "ar": "شَرٌّ",
+          "bn": "অকল্যাণ",
+          "sourcePages": [
+            43
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 200,
+          "ar": "مَطَارٌ",
+          "bn": "বিমানবন্দর",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 201,
+          "ar": "عَاصِمَةٌ",
+          "bn": "রাজধানী",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 202,
+          "ar": "قِطَارٌ",
+          "bn": "ট্রেন",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 203,
+          "ar": "سَرِيعٌ",
+          "bn": "দ্রুত",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 204,
+          "ar": "وَرْدَةٌ",
+          "bn": "গোলাপ",
+          "sourcePages": [
+            45,
+            95
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 205,
+          "ar": "بَطِيءٌ",
+          "bn": "ধীর",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 206,
+          "ar": "فَاكِهَةٌ",
+          "bn": "ফল",
+          "sourcePages": [
+            45
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 207,
+          "ar": "لَذِيذٌ",
+          "bn": "সুস্বাদু",
+          "sourcePages": [
+            45,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-14",
+      "expectedFilename": "grid-14.png",
+      "promptFile": "grid-14-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 208,
+          "ar": "مِنْضَدَةٌ",
+          "bn": "টেবিল",
+          "sourcePages": [
+            46,
+            78,
+            100
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 209,
+          "ar": "الرَّبِيعُ",
+          "bn": "বসন্ত",
+          "sourcePages": [
+            46
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 210,
+          "ar": "كُرَةٌ",
+          "bn": "বল",
+          "sourcePages": [
+            47,
+            53
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 211,
+          "ar": "بُنْدُقِيَّةٌ",
+          "bn": "বন্দুক",
+          "sourcePages": [
+            50
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 212,
+          "ar": "رُمْحٌ",
+          "bn": "বর্শা",
+          "sourcePages": [
+            50
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 213,
+          "ar": "دَبَّابَةٌ",
+          "bn": "ট্যাংক",
+          "sourcePages": [
+            50
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 214,
+          "ar": "مِدْفَعٌ",
+          "bn": "কামান",
+          "sourcePages": [
+            50,
+            51
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 215,
+          "ar": "قُنْبُلَةٌ",
+          "bn": "বোমা",
+          "sourcePages": [
+            50
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 216,
+          "ar": "خِنْجَرٌ",
+          "bn": "ছোরা",
+          "sourcePages": [
+            50
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 217,
+          "ar": "سَيْفٌ",
+          "bn": "তলোয়ার",
+          "sourcePages": [
+            50,
+            51
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 218,
+          "ar": "سَهْمٌ",
+          "bn": "তীর",
+          "sourcePages": [
+            50,
+            51
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 219,
+          "ar": "بَاخِرَةٌ",
+          "bn": "জাহাজ",
+          "sourcePages": [
+            50,
+            51,
+            53
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 220,
+          "ar": "قَوْسٌ",
+          "bn": "ধনুক",
+          "sourcePages": [
+            51
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 221,
+          "ar": "مِلْعَقَةٌ",
+          "bn": "চামচ",
+          "sourcePages": [
+            52,
+            53,
+            59
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 222,
+          "ar": "فِنْجَانٌ",
+          "bn": "কাপ",
+          "sourcePages": [
+            52
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 223,
+          "ar": "كُوبٌ",
+          "bn": "গ্লাস",
+          "sourcePages": [
+            52,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-15",
+      "expectedFilename": "grid-15.png",
+      "promptFile": "grid-15-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 224,
+          "ar": "طَبَقٌ",
+          "bn": "পিরিচ",
+          "sourcePages": [
+            52
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 225,
+          "ar": "صَحْنٌ",
+          "bn": "থালা",
+          "sourcePages": [
+            52
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 226,
+          "ar": "إِبْرِيقٌ",
+          "bn": "জগ",
+          "sourcePages": [
+            52,
+            53
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 227,
+          "ar": "مَوْقِدٌ",
+          "bn": "চুলা",
+          "sourcePages": [
+            52
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 228,
+          "ar": "مَطْبَخٌ",
+          "bn": "রান্নাঘর",
+          "sourcePages": [
+            52
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 229,
+          "ar": "مُثَلَّثٌ",
+          "bn": "ত্রিভুজ",
+          "sourcePages": [
+            53
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 230,
+          "ar": "أَمْ",
+          "bn": "না কি (বিকল্প)",
+          "sourcePages": [
+            54,
+            64
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 231,
+          "ar": "طَازَجٌ",
+          "bn": "তাজা",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 232,
+          "ar": "بَائِتٌ",
+          "bn": "বাসি",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 233,
+          "ar": "خَالِصٌ",
+          "bn": "খাঁটি",
+          "sourcePages": [
+            55,
+            67
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 234,
+          "ar": "فَاسِدٌ",
+          "bn": "নষ্ট",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 235,
+          "ar": "بَيْضَةٌ",
+          "bn": "ডিম",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 236,
+          "ar": "سَمَكَةٌ",
+          "bn": "মাছ",
+          "sourcePages": [
+            55,
+            58,
+            96,
+            98
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 237,
+          "ar": "عَسَلٌ",
+          "bn": "মধু",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 238,
+          "ar": "لَبَنٌ",
+          "bn": "দুধ",
+          "sourcePages": [
+            55,
+            85
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 239,
+          "ar": "خُبْزٌ",
+          "bn": "রুটি",
+          "sourcePages": [
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-16",
+      "expectedFilename": "grid-16.png",
+      "promptFile": "grid-16-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 240,
+          "ar": "طَعَامٌ",
+          "bn": "খাবার",
+          "sourcePages": [
+            55
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 241,
+          "ar": "طَوِيلٌ",
+          "bn": "লম্বা",
+          "sourcePages": [
+            55,
+            67
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 242,
+          "ar": "قَصِيرٌ",
+          "bn": "খাটো",
+          "sourcePages": [
+            55,
+            67
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 243,
+          "ar": "شَجَرَةٌ",
+          "bn": "গাছ",
+          "sourcePages": [
+            56,
+            101
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 244,
+          "ar": "زَهْرَةٌ",
+          "bn": "ফুল",
+          "sourcePages": [
+            56,
+            58
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 245,
+          "ar": "غُصْنٌ",
+          "bn": "ডাল",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 246,
+          "ar": "وَرَقَةٌ",
+          "bn": "পাতা",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 247,
+          "ar": "جَبَلٌ",
+          "bn": "পাহাড়",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 248,
+          "ar": "غَابَةٌ",
+          "bn": "বন",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 249,
+          "ar": "جَرَسٌ",
+          "bn": "ঘণ্টা",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 250,
+          "ar": "مَنَارَةٌ",
+          "bn": "মিনার",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 251,
+          "ar": "شَارِعٌ",
+          "bn": "সড়ক",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 252,
+          "ar": "عُلْبَةٌ",
+          "bn": "কৌটা",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 253,
+          "ar": "مِئْذَنَةٌ",
+          "bn": "মিনার",
+          "sourcePages": [
+            56
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 254,
+          "ar": "حَارٌّ",
+          "bn": "গরম",
+          "sourcePages": [
+            57
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 255,
+          "ar": "بَارِدٌ",
+          "bn": "ঠান্ডা",
+          "sourcePages": [
+            57,
+            67
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-17",
+      "expectedFilename": "grid-17.png",
+      "promptFile": "grid-17-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 256,
+          "ar": "كَثِيرٌ",
+          "bn": "বেশি",
+          "sourcePages": [
+            57
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 257,
+          "ar": "قَلِيلٌ",
+          "bn": "কম",
+          "sourcePages": [
+            57
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 258,
+          "ar": "غَالٍ",
+          "bn": "দামি",
+          "sourcePages": [
+            57,
+            66
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 259,
+          "ar": "غَالِيَةٌ",
+          "bn": "দামি (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            57
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 260,
+          "ar": "عَالِيَةٌ",
+          "bn": "উঁচু (স্ত্রীলিঙ্গ)",
+          "sourcePages": [
+            57
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 261,
+          "ar": "جَرِيدَةٌ",
+          "bn": "সংবাদপত্র",
+          "sourcePages": [
+            59,
+            92
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 262,
+          "ar": "طَبِيبٌ",
+          "bn": "চিকিৎসক",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 263,
+          "ar": "مَرِيضٌ",
+          "bn": "রোগী",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 264,
+          "ar": "أَمِينٌ",
+          "bn": "বিশ্বস্ত",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 265,
+          "ar": "سَخِيٌّ",
+          "bn": "দানশীল",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 266,
+          "ar": "بَخِيلٌ",
+          "bn": "কৃপণ",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 267,
+          "ar": "كَاتِبٌ",
+          "bn": "লেখক",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 268,
+          "ar": "كَسْلَانُ",
+          "bn": "অলস",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 269,
+          "ar": "نَشِيطٌ",
+          "bn": "সক্রিয়",
+          "sourcePages": [
+            60
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 270,
+          "ar": "خَيَّاطٌ",
+          "bn": "দর্জি",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 271,
+          "ar": "جَبَانٌ",
+          "bn": "ভীরু",
+          "sourcePages": [
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-18",
+      "expectedFilename": "grid-18.png",
+      "promptFile": "grid-18-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 272,
+          "ar": "شُجَاعٌ",
+          "bn": "সাহসী",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 273,
+          "ar": "سَائِقٌ",
+          "bn": "চালক",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 274,
+          "ar": "طَبَّاخٌ",
+          "bn": "রাঁধুনি",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 275,
+          "ar": "لَاعِبٌ",
+          "bn": "খেলোয়াড়",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 276,
+          "ar": "صَبَّانٌ",
+          "bn": "ধোপা",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 277,
+          "ar": "حَلَّاقٌ",
+          "bn": "নাপিত",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 278,
+          "ar": "مُتَوَاضِعٌ",
+          "bn": "বিনয়ী",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 279,
+          "ar": "مُتَكَبِّرٌ",
+          "bn": "অহংকারী",
+          "sourcePages": [
+            61
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 280,
+          "ar": "مَاهِرٌ",
+          "bn": "দক্ষ",
+          "sourcePages": [
+            62
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 281,
+          "ar": "غَيْرُ",
+          "bn": "নয়",
+          "sourcePages": [
+            62,
+            93
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 282,
+          "ar": "مُسْلِمٌ",
+          "bn": "মুসলিম",
+          "sourcePages": [
+            63
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 283,
+          "ar": "مُشْرِكٌ",
+          "bn": "মুশরিক",
+          "sourcePages": [
+            63
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 284,
+          "ar": "تُفَّاحَةٌ",
+          "bn": "আপেল",
+          "sourcePages": [
+            65
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 285,
+          "ar": "عِنَبٌ",
+          "bn": "আঙুর",
+          "sourcePages": [
+            65
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 286,
+          "ar": "رُمَّانَةٌ",
+          "bn": "ডালিম",
+          "sourcePages": [
+            65
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 287,
+          "ar": "بِطِّيخَةٌ",
+          "bn": "তরমুজ",
+          "sourcePages": [
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-19",
+      "expectedFilename": "grid-19.png",
+      "promptFile": "grid-19-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 288,
+          "ar": "حُلْوٌ",
+          "bn": "মিষ্টি",
+          "sourcePages": [
+            65
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 289,
+          "ar": "حَامِضٌ",
+          "bn": "টক",
+          "sourcePages": [
+            65
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 290,
+          "ar": "سِوَارٌ",
+          "bn": "চুড়ি",
+          "sourcePages": [
+            66
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 291,
+          "ar": "مُغْلَقٌ",
+          "bn": "বন্ধ",
+          "sourcePages": [
+            67,
+            80,
+            93
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 292,
+          "ar": "الْوَلَدُ",
+          "bn": "বালকটি",
+          "sourcePages": [
+            68
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 293,
+          "ar": "السَّيَّارَةُ",
+          "bn": "গাড়িটি",
+          "sourcePages": [
+            68
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 294,
+          "ar": "الْقُفْلُ",
+          "bn": "তালাটি",
+          "sourcePages": [
+            68
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 295,
+          "ar": "صَوْبٌ",
+          "bn": "সঠিক",
+          "sourcePages": [
+            69
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 296,
+          "ar": "خَطَأٌ",
+          "bn": "ভুল",
+          "sourcePages": [
+            69
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 297,
+          "ar": "مُبْتَدَأٌ",
+          "bn": "বাক্যের বিষয়",
+          "sourcePages": [
+            69,
+            99
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 298,
+          "ar": "خَبَرٌ",
+          "bn": "বিষয় সম্পর্কে বক্তব্য",
+          "sourcePages": [
+            69,
+            99
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 299,
+          "ar": "تَمْرَةٌ",
+          "bn": "একটি খেজুর",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 300,
+          "ar": "التَّمْرُ",
+          "bn": "খেজুর",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 301,
+          "ar": "التُّفَّاحُ",
+          "bn": "আপেল",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 302,
+          "ar": "الرُّمَّانُ",
+          "bn": "ডালিম",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 303,
+          "ar": "حَيَوَانٌ",
+          "bn": "প্রাণী",
+          "sourcePages": [
+            70
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-20",
+      "expectedFilename": "grid-20.png",
+      "promptFile": "grid-20-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 304,
+          "ar": "غُرَابٌ",
+          "bn": "কাক",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 305,
+          "ar": "فِيلٌ",
+          "bn": "হাতি",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 306,
+          "ar": "خُرْطُومٌ",
+          "bn": "শুঁড়",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 307,
+          "ar": "قِرْدٌ",
+          "bn": "বানর",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 308,
+          "ar": "عُصْفُورٌ",
+          "bn": "চড়ুই",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 309,
+          "ar": "إِنْسَانٌ",
+          "bn": "মানুষ",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 310,
+          "ar": "ذِكْرٌ",
+          "bn": "যিকির",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 311,
+          "ar": "صَدْرٌ",
+          "bn": "বুক",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 312,
+          "ar": "لِسَانٌ",
+          "bn": "জিহ্বা",
+          "sourcePages": [
+            70,
+            72
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 313,
+          "ar": "فَمٌ",
+          "bn": "মুখ",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 314,
+          "ar": "عَظِيمٌ",
+          "bn": "বিরাট",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 315,
+          "ar": "رَأْسٌ",
+          "bn": "মাথা",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 316,
+          "ar": "جِسْمٌ",
+          "bn": "শরীর",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 317,
+          "ar": "غِذَاءٌ",
+          "bn": "খাদ্য",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 318,
+          "ar": "ظَبْيٌ",
+          "bn": "হরিণ",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 319,
+          "ar": "كَلْبٌ",
+          "bn": "কুকুর",
+          "sourcePages": [
+            70
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-21",
+      "expectedFilename": "grid-21.png",
+      "promptFile": "grid-21-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 320,
+          "ar": "فَرَسٌ",
+          "bn": "ঘোড়া",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 321,
+          "ar": "ذِئْبٌ",
+          "bn": "নেকড়ে",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 322,
+          "ar": "نَمِرٌ",
+          "bn": "বাঘ",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 323,
+          "ar": "حِمَارٌ",
+          "bn": "গাধা",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 324,
+          "ar": "بُلْبُلٌ",
+          "bn": "বুলবুলি",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 325,
+          "ar": "طَائِرٌ",
+          "bn": "পাখি",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 326,
+          "ar": "قَبِيحٌ",
+          "bn": "কুৎসিত",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 327,
+          "ar": "ضَعِيفٌ",
+          "bn": "দুর্বল",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 328,
+          "ar": "عَدُوٌّ",
+          "bn": "শত্রু",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 329,
+          "ar": "الشَّيْطَانُ",
+          "bn": "শয়তান",
+          "sourcePages": [
+            70
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 330,
+          "ar": "شَعْرٌ",
+          "bn": "চুল",
+          "sourcePages": [
+            71
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 331,
+          "ar": "سِنٌّ",
+          "bn": "দাঁত",
+          "sourcePages": [
+            71
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 332,
+          "ar": "أَنْفٌ",
+          "bn": "নাক",
+          "sourcePages": [
+            71
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 333,
+          "ar": "عَيْنٌ",
+          "bn": "চোখ",
+          "sourcePages": [
+            71
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 334,
+          "ar": "بَطْنٌ",
+          "bn": "পেট",
+          "sourcePages": [
+            71
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 335,
+          "ar": "ظُفْرٌ",
+          "bn": "নখ",
+          "sourcePages": [
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-22",
+      "expectedFilename": "grid-22.png",
+      "promptFile": "grid-22-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 336,
+          "ar": "رَائِحَةٌ",
+          "bn": "গন্ধ",
+          "sourcePages": [
+            72,
+            91
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 337,
+          "ar": "قَرِيبٌ",
+          "bn": "নিকটবর্তী",
+          "sourcePages": [
+            72
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 338,
+          "ar": "بَعِيدٌ",
+          "bn": "দূরবর্তী",
+          "sourcePages": [
+            72
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 339,
+          "ar": "زَمِيلٌ",
+          "bn": "সহপাঠী",
+          "sourcePages": [
+            72
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 340,
+          "ar": "حَبِيبٌ",
+          "bn": "প্রিয়",
+          "sourcePages": [
+            72
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 341,
+          "ar": "فَعَلَ",
+          "bn": "সে করেছে",
+          "sourcePages": [
+            75
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 342,
+          "ar": "خَرَجَ",
+          "bn": "সে বের হয়েছে",
+          "sourcePages": [
+            75
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 343,
+          "ar": "ذَهَبَ",
+          "bn": "সে গিয়েছে",
+          "sourcePages": [
+            75
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 344,
+          "ar": "جَلَسَ",
+          "bn": "সে বসেছে",
+          "sourcePages": [
+            75
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 345,
+          "ar": "قَرَأَ",
+          "bn": "সে পড়েছে",
+          "sourcePages": [
+            75
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 346,
+          "ar": "كَتَبَ",
+          "bn": "সে লিখেছে",
+          "sourcePages": [
+            76
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 347,
+          "ar": "رَجَعَ",
+          "bn": "সে ফিরেছে",
+          "sourcePages": [
+            76
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 348,
+          "ar": "لَعِبَ",
+          "bn": "সে খেলেছে",
+          "sourcePages": [
+            76
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 349,
+          "ar": "مَكْتَبَةٌ",
+          "bn": "পাঠাগার",
+          "sourcePages": [
+            77
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 350,
+          "ar": "مَنْظَرٌ",
+          "bn": "দৃশ্য",
+          "sourcePages": [
+            77
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 351,
+          "ar": "حَجَرٌ",
+          "bn": "পাথর",
+          "sourcePages": [
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-23",
+      "expectedFilename": "grid-23.png",
+      "promptFile": "grid-23-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 352,
+          "ar": "فِنَاءٌ",
+          "bn": "উঠান",
+          "sourcePages": [
+            77
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 353,
+          "ar": "الْجَامِعَةُ",
+          "bn": "বিশ্ববিদ্যালয়",
+          "sourcePages": [
+            77
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 354,
+          "ar": "قِصَّةٌ",
+          "bn": "গল্প",
+          "sourcePages": [
+            78
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 355,
+          "ar": "نَارٌ",
+          "bn": "আগুন",
+          "sourcePages": [
+            78,
+            85
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 356,
+          "ar": "أَسَدٌ",
+          "bn": "সিংহ",
+          "sourcePages": [
+            78
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 357,
+          "ar": "ثَعْلَبٌ",
+          "bn": "শিয়াল",
+          "sourcePages": [
+            78
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 358,
+          "ar": "يَفْعَلُ",
+          "bn": "সে করে",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 359,
+          "ar": "يَخْرُجُ",
+          "bn": "সে বের হয়",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 360,
+          "ar": "يَذْهَبُ",
+          "bn": "সে যায়",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 361,
+          "ar": "أَفْعَلُ",
+          "bn": "আমি করি",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 362,
+          "ar": "أَخْرُجُ",
+          "bn": "আমি বের হই",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 363,
+          "ar": "أَذْهَبُ",
+          "bn": "আমি যাই",
+          "sourcePages": [
+            79
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 364,
+          "ar": "الْحُجْرَةُ",
+          "bn": "কামরাটি",
+          "sourcePages": [
+            80
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 365,
+          "ar": "الْمِنْضَدَةُ",
+          "bn": "টেবিলটি",
+          "sourcePages": [
+            80
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 366,
+          "ar": "يَجْلِسُ",
+          "bn": "সে বসে",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 367,
+          "ar": "يَقْرَأُ",
+          "bn": "সে পড়ে",
+          "sourcePages": [
+            81
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-24",
+      "expectedFilename": "grid-24.png",
+      "promptFile": "grid-24-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 368,
+          "ar": "يَكْتُبُ",
+          "bn": "সে লেখে",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 369,
+          "ar": "يَرْجِعُ",
+          "bn": "সে ফেরে",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 370,
+          "ar": "يَلْعَبُ",
+          "bn": "সে খেলে",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 371,
+          "ar": "أَجْلِسُ",
+          "bn": "আমি বসি",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 372,
+          "ar": "أَقْرَأُ",
+          "bn": "আমি পড়ি",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 373,
+          "ar": "أَكْتُبُ",
+          "bn": "আমি লিখি",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 374,
+          "ar": "أَرْجِعُ",
+          "bn": "আমি ফিরি",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 375,
+          "ar": "أَلْعَبُ",
+          "bn": "আমি খেলি",
+          "sourcePages": [
+            81
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 376,
+          "ar": "جِسْرٌ",
+          "bn": "সেতু",
+          "sourcePages": [
+            82
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 377,
+          "ar": "زَوْرَقٌ",
+          "bn": "নৌকা",
+          "sourcePages": [
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 378,
+          "ar": "سَقْفٌ",
+          "bn": "ছাদ",
+          "sourcePages": [
+            83,
+            91,
+            100
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 379,
+          "ar": "فَصْلٌ",
+          "bn": "শ্রেণিকক্ষ",
+          "sourcePages": [
+            85
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 380,
+          "ar": "مَكْتَبٌ",
+          "bn": "লেখার টেবিল",
+          "sourcePages": [
+            85
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 381,
+          "ar": "سَفِينَةٌ",
+          "bn": "জাহাজ",
+          "sourcePages": [
+            86
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 382,
+          "ar": "جَيْبٌ",
+          "bn": "পকেট",
+          "sourcePages": [
+            86
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 383,
+          "ar": "الْعَالَمُ",
+          "bn": "পৃথিবী",
+          "sourcePages": [
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-25",
+      "expectedFilename": "grid-25.png",
+      "promptFile": "grid-25-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 384,
+          "ar": "اِفْعَلْ",
+          "bn": "করো",
+          "sourcePages": [
+            87
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 385,
+          "ar": "اُخْرُجْ",
+          "bn": "বের হও",
+          "sourcePages": [
+            87
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 386,
+          "ar": "اِذْهَبْ",
+          "bn": "যাও",
+          "sourcePages": [
+            87
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 387,
+          "ar": "اِجْلِسْ",
+          "bn": "বসো",
+          "sourcePages": [
+            87
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 388,
+          "ar": "اِقْرَأْ",
+          "bn": "পড়ো",
+          "sourcePages": [
+            87
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 389,
+          "ar": "اُكْتُبْ",
+          "bn": "লেখো",
+          "sourcePages": [
+            88
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 390,
+          "ar": "اِرْجِعْ",
+          "bn": "ফিরে এসো",
+          "sourcePages": [
+            88
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "wordId": 391,
+          "ar": "اِلْعَبْ",
+          "bn": "খেলো",
+          "sourcePages": [
+            88
+          ]
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "wordId": 392,
+          "ar": "إِمَامٌ",
+          "bn": "ইমাম",
+          "sourcePages": [
+            90
+          ]
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "wordId": 393,
+          "ar": "خَادِمٌ",
+          "bn": "সেবক",
+          "sourcePages": [
+            90
+          ]
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "wordId": 394,
+          "ar": "مُؤَذِّنٌ",
+          "bn": "মুয়াজ্জিন",
+          "sourcePages": [
+            90
+          ]
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "wordId": 395,
+          "ar": "فُلَانٌ",
+          "bn": "অমুক",
+          "sourcePages": [
+            90
+          ]
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "wordId": 396,
+          "ar": "صَالِحٌ",
+          "bn": "সৎ",
+          "sourcePages": [
+            91
+          ]
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "wordId": 397,
+          "ar": "صُورَةٌ",
+          "bn": "ছবি",
+          "sourcePages": [
+            91
+          ]
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "wordId": 398,
+          "ar": "دُكَّانٌ",
+          "bn": "দোকান",
+          "sourcePages": [
+            92
+          ]
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "wordId": 399,
+          "ar": "صَاحِبٌ",
+          "bn": "মালিক",
+          "sourcePages": [
+            92,
+            98
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grid-26",
+      "expectedFilename": "grid-26.png",
+      "promptFile": "grid-26-prompt.txt",
+      "cells": [
+        {
+          "cell": 1,
+          "row": 1,
+          "column": 1,
+          "wordId": 400,
+          "ar": "حَوْضٌ",
+          "bn": "চৌবাচ্চা",
+          "sourcePages": [
+            96,
+            98
+          ]
+        },
+        {
+          "cell": 2,
+          "row": 1,
+          "column": 2,
+          "wordId": 401,
+          "ar": "مَوْصُوفٌ",
+          "bn": "বিশেষ্য",
+          "sourcePages": [
+            99
+          ]
+        },
+        {
+          "cell": 3,
+          "row": 1,
+          "column": 3,
+          "wordId": 402,
+          "ar": "صِفَةٌ",
+          "bn": "বিশেষণ",
+          "sourcePages": [
+            99
+          ]
+        },
+        {
+          "cell": 4,
+          "row": 1,
+          "column": 4,
+          "wordId": 403,
+          "ar": "سَجَّادَةٌ",
+          "bn": "জায়নামাজ",
+          "sourcePages": [
+            102
+          ]
+        },
+        {
+          "cell": 5,
+          "row": 2,
+          "column": 1,
+          "wordId": 404,
+          "ar": "الْجُزْءُ",
+          "bn": "খণ্ড",
+          "sourcePages": [
+            102
+          ]
+        },
+        {
+          "cell": 6,
+          "row": 2,
+          "column": 2,
+          "wordId": 405,
+          "ar": "الْأَوَّلُ",
+          "bn": "প্রথম",
+          "sourcePages": [
+            102
+          ]
+        },
+        {
+          "cell": 7,
+          "row": 2,
+          "column": 3,
+          "wordId": 406,
+          "ar": "فَضْلٌ",
+          "bn": "অনুগ্রহ",
+          "sourcePages": [
+            102
+          ]
+        },
+        {
+          "cell": 8,
+          "row": 2,
+          "column": 4,
+          "blank": true
+        },
+        {
+          "cell": 9,
+          "row": 3,
+          "column": 1,
+          "blank": true
+        },
+        {
+          "cell": 10,
+          "row": 3,
+          "column": 2,
+          "blank": true
+        },
+        {
+          "cell": 11,
+          "row": 3,
+          "column": 3,
+          "blank": true
+        },
+        {
+          "cell": 12,
+          "row": 3,
+          "column": 4,
+          "blank": true
+        },
+        {
+          "cell": 13,
+          "row": 4,
+          "column": 1,
+          "blank": true
+        },
+        {
+          "cell": 14,
+          "row": 4,
+          "column": 2,
+          "blank": true
+        },
+        {
+          "cell": 15,
+          "row": 4,
+          "column": 3,
+          "blank": true
+        },
+        {
+          "cell": 16,
+          "row": 4,
+          "column": 4,
+          "blank": true
+        }
+      ]
+    }
+  ]
+}
