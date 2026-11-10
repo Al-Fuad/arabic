@@ -10,9 +10,24 @@
     "8": 7,
     "9": 11,
     "10": 9,
-    "11": 10
+    "11": 10,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26
   },
-  "imported": 172,
+  "imported": 400,
   "cells": [
     {
       "cell": 1,
@@ -3621,6 +3636,4667 @@
       "crop": {
         "x": 772,
         "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 176,
+      "ar": "وَرَاءَ",
+      "bn": "পেছনে",
+      "sourcePages": [
+        39,
+        46
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-176.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 177,
+      "ar": "خَلْفَ",
+      "bn": "পেছনে",
+      "sourcePages": [
+        39
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-177.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 178,
+      "ar": "فَوْقَ",
+      "bn": "ওপরে",
+      "sourcePages": [
+        39,
+        46,
+        82,
+        84
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-178.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 179,
+      "ar": "بِجَانِبِ",
+      "bn": "পাশে",
+      "sourcePages": [
+        39
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-179.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 180,
+      "ar": "شَاشَةٌ",
+      "bn": "পর্দা",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-180.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 181,
+      "ar": "سَاحَةٌ",
+      "bn": "আঙিনা",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-181.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 182,
+      "ar": "خَرِيطَةٌ",
+      "bn": "মানচিত্র",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-182.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 183,
+      "ar": "حَارِثٌ",
+      "bn": "চাষি",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-183.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 184,
+      "ar": "مَكْسُورٌ",
+      "bn": "ভাঙা",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-184.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 185,
+      "ar": "أَيْنَ",
+      "bn": "কোথায়",
+      "sourcePages": [
+        40
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-185.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 186,
+      "ar": "عِنْدِي",
+      "bn": "আমার কাছে",
+      "sourcePages": [
+        41
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-186.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 187,
+      "ar": "عِنْدَهَا",
+      "bn": "তার (নারীর) কাছে",
+      "sourcePages": [
+        41
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-187.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 188,
+      "ar": "أَمَامِي",
+      "bn": "আমার সামনে",
+      "sourcePages": [
+        41
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-188.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 189,
+      "ar": "فَوْقِي",
+      "bn": "আমার ওপরে",
+      "sourcePages": [
+        41
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-189.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 190,
+      "ar": "السَّمَاءُ",
+      "bn": "আকাশ",
+      "sourcePages": [
+        42
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-190.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 191,
+      "ar": "الْأَرْضُ",
+      "bn": "পৃথিবী",
+      "sourcePages": [
+        42
+      ],
+      "input": "12.jpeg",
+      "status": "imported",
+      "file": "gemini-word-191.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 192,
+      "ar": "فَوْقَنَا",
+      "bn": "আমাদের ওপরে",
+      "sourcePages": [
+        42
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-192.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 193,
+      "ar": "تَحْتَنَا",
+      "bn": "আমাদের নিচে",
+      "sourcePages": [
+        42
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-193.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 194,
+      "ar": "فِي",
+      "bn": "ভেতরে",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-194.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 195,
+      "ar": "قَلْبٌ",
+      "bn": "হৃদয়",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-195.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 196,
+      "ar": "نُورٌ",
+      "bn": "আলো",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-196.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 197,
+      "ar": "ظُلْمَةٌ",
+      "bn": "অন্ধকার",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "needs-replacement",
+      "reason": "Lit candle on bright background does not illustrate darkness"
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 198,
+      "ar": "خَيْرٌ",
+      "bn": "কল্যাণ",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-198.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 199,
+      "ar": "شَرٌّ",
+      "bn": "অকল্যাণ",
+      "sourcePages": [
+        43
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-199.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 200,
+      "ar": "مَطَارٌ",
+      "bn": "বিমানবন্দর",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-200.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 201,
+      "ar": "عَاصِمَةٌ",
+      "bn": "রাজধানী",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-201.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 202,
+      "ar": "قِطَارٌ",
+      "bn": "ট্রেন",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-202.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 203,
+      "ar": "سَرِيعٌ",
+      "bn": "দ্রুত",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-203.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 204,
+      "ar": "وَرْدَةٌ",
+      "bn": "গোলাপ",
+      "sourcePages": [
+        45,
+        95
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-204.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 205,
+      "ar": "بَطِيءٌ",
+      "bn": "ধীর",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-205.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 206,
+      "ar": "فَاكِهَةٌ",
+      "bn": "ফল",
+      "sourcePages": [
+        45
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-206.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 207,
+      "ar": "لَذِيذٌ",
+      "bn": "সুস্বাদু",
+      "sourcePages": [
+        45,
+        62
+      ],
+      "input": "13.jpeg",
+      "status": "imported",
+      "file": "gemini-word-207.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 208,
+      "ar": "مِنْضَدَةٌ",
+      "bn": "টেবিল",
+      "sourcePages": [
+        46,
+        78,
+        100
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-208.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 209,
+      "ar": "الرَّبِيعُ",
+      "bn": "বসন্ত",
+      "sourcePages": [
+        46
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-209.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 210,
+      "ar": "كُرَةٌ",
+      "bn": "বল",
+      "sourcePages": [
+        47,
+        53
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-210.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 211,
+      "ar": "بُنْدُقِيَّةٌ",
+      "bn": "বন্দুক",
+      "sourcePages": [
+        50
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-211.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 212,
+      "ar": "رُمْحٌ",
+      "bn": "বর্শা",
+      "sourcePages": [
+        50
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-212.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 213,
+      "ar": "دَبَّابَةٌ",
+      "bn": "ট্যাংক",
+      "sourcePages": [
+        50
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-213.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 214,
+      "ar": "مِدْفَعٌ",
+      "bn": "কামান",
+      "sourcePages": [
+        50,
+        51
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-214.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 215,
+      "ar": "قُنْبُلَةٌ",
+      "bn": "বোমা",
+      "sourcePages": [
+        50
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-215.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 216,
+      "ar": "خِنْجَرٌ",
+      "bn": "ছোরা",
+      "sourcePages": [
+        50
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-216.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 217,
+      "ar": "سَيْفٌ",
+      "bn": "তলোয়ার",
+      "sourcePages": [
+        50,
+        51
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-217.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 218,
+      "ar": "سَهْمٌ",
+      "bn": "তীর",
+      "sourcePages": [
+        50,
+        51
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-218.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 219,
+      "ar": "بَاخِرَةٌ",
+      "bn": "জাহাজ",
+      "sourcePages": [
+        50,
+        51,
+        53
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-219.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 220,
+      "ar": "قَوْسٌ",
+      "bn": "ধনুক",
+      "sourcePages": [
+        51
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-220.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 221,
+      "ar": "مِلْعَقَةٌ",
+      "bn": "চামচ",
+      "sourcePages": [
+        52,
+        53,
+        59
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-221.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 222,
+      "ar": "فِنْجَانٌ",
+      "bn": "কাপ",
+      "sourcePages": [
+        52
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-222.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 223,
+      "ar": "كُوبٌ",
+      "bn": "গ্লাস",
+      "sourcePages": [
+        52,
+        53
+      ],
+      "input": "14.jpeg",
+      "status": "imported",
+      "file": "gemini-word-223.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 224,
+      "ar": "طَبَقٌ",
+      "bn": "পিরিচ",
+      "sourcePages": [
+        52
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-224.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 225,
+      "ar": "صَحْنٌ",
+      "bn": "থালা",
+      "sourcePages": [
+        52
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-225.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 226,
+      "ar": "إِبْرِيقٌ",
+      "bn": "জগ",
+      "sourcePages": [
+        52,
+        53
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-226.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 227,
+      "ar": "مَوْقِدٌ",
+      "bn": "চুলা",
+      "sourcePages": [
+        52
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-227.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 228,
+      "ar": "مَطْبَخٌ",
+      "bn": "রান্নাঘর",
+      "sourcePages": [
+        52
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-228.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 229,
+      "ar": "مُثَلَّثٌ",
+      "bn": "ত্রিভুজ",
+      "sourcePages": [
+        53
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-229.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 230,
+      "ar": "أَمْ",
+      "bn": "না কি (বিকল্প)",
+      "sourcePages": [
+        54,
+        64
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-230.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 231,
+      "ar": "طَازَجٌ",
+      "bn": "তাজা",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-231.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 232,
+      "ar": "بَائِتٌ",
+      "bn": "বাসি",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-232.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 233,
+      "ar": "خَالِصٌ",
+      "bn": "খাঁটি",
+      "sourcePages": [
+        55,
+        67
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-233.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 234,
+      "ar": "فَاسِدٌ",
+      "bn": "নষ্ট",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-234.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 235,
+      "ar": "بَيْضَةٌ",
+      "bn": "ডিম",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-235.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 236,
+      "ar": "سَمَكَةٌ",
+      "bn": "মাছ",
+      "sourcePages": [
+        55,
+        58,
+        96,
+        98
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-236.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 237,
+      "ar": "عَسَلٌ",
+      "bn": "মধু",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-237.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 238,
+      "ar": "لَبَنٌ",
+      "bn": "দুধ",
+      "sourcePages": [
+        55,
+        85
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-238.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 239,
+      "ar": "خُبْزٌ",
+      "bn": "রুটি",
+      "sourcePages": [
+        55
+      ],
+      "input": "15.jpeg",
+      "status": "imported",
+      "file": "gemini-word-239.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 240,
+      "ar": "طَعَامٌ",
+      "bn": "খাবার",
+      "sourcePages": [
+        55
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-240.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 241,
+      "ar": "طَوِيلٌ",
+      "bn": "লম্বা",
+      "sourcePages": [
+        55,
+        67
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-241.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 242,
+      "ar": "قَصِيرٌ",
+      "bn": "খাটো",
+      "sourcePages": [
+        55,
+        67
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-242.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 243,
+      "ar": "شَجَرَةٌ",
+      "bn": "গাছ",
+      "sourcePages": [
+        56,
+        101
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-243.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 244,
+      "ar": "زَهْرَةٌ",
+      "bn": "ফুল",
+      "sourcePages": [
+        56,
+        58
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-244.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 245,
+      "ar": "غُصْنٌ",
+      "bn": "ডাল",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-245.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 246,
+      "ar": "وَرَقَةٌ",
+      "bn": "পাতা",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-246.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 247,
+      "ar": "جَبَلٌ",
+      "bn": "পাহাড়",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-247.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 248,
+      "ar": "غَابَةٌ",
+      "bn": "বন",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-248.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 249,
+      "ar": "جَرَسٌ",
+      "bn": "ঘণ্টা",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-249.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 250,
+      "ar": "مَنَارَةٌ",
+      "bn": "মিনার",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-250.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 251,
+      "ar": "شَارِعٌ",
+      "bn": "সড়ক",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-251.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 252,
+      "ar": "عُلْبَةٌ",
+      "bn": "কৌটা",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-252.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 253,
+      "ar": "مِئْذَنَةٌ",
+      "bn": "মিনার",
+      "sourcePages": [
+        56
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-253.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 254,
+      "ar": "حَارٌّ",
+      "bn": "গরম",
+      "sourcePages": [
+        57
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-254.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 255,
+      "ar": "بَارِدٌ",
+      "bn": "ঠান্ডা",
+      "sourcePages": [
+        57,
+        67
+      ],
+      "input": "16.jpeg",
+      "status": "imported",
+      "file": "gemini-word-255.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 256,
+      "ar": "كَثِيرٌ",
+      "bn": "বেশি",
+      "sourcePages": [
+        57
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-256.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 257,
+      "ar": "قَلِيلٌ",
+      "bn": "কম",
+      "sourcePages": [
+        57
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-257.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 258,
+      "ar": "غَالٍ",
+      "bn": "দামি",
+      "sourcePages": [
+        57,
+        66
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-258.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 259,
+      "ar": "غَالِيَةٌ",
+      "bn": "দামি (স্ত্রীলিঙ্গ)",
+      "sourcePages": [
+        57
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-259.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 260,
+      "ar": "عَالِيَةٌ",
+      "bn": "উঁচু (স্ত্রীলিঙ্গ)",
+      "sourcePages": [
+        57
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-260.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 261,
+      "ar": "جَرِيدَةٌ",
+      "bn": "সংবাদপত্র",
+      "sourcePages": [
+        59,
+        92
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-261.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 262,
+      "ar": "طَبِيبٌ",
+      "bn": "চিকিৎসক",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-262.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 263,
+      "ar": "مَرِيضٌ",
+      "bn": "রোগী",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-263.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 264,
+      "ar": "أَمِينٌ",
+      "bn": "বিশ্বস্ত",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-264.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 265,
+      "ar": "سَخِيٌّ",
+      "bn": "দানশীল",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-265.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 266,
+      "ar": "بَخِيلٌ",
+      "bn": "কৃপণ",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-266.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 267,
+      "ar": "كَاتِبٌ",
+      "bn": "লেখক",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-267.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 268,
+      "ar": "كَسْلَانُ",
+      "bn": "অলস",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-268.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 269,
+      "ar": "نَشِيطٌ",
+      "bn": "সক্রিয়",
+      "sourcePages": [
+        60
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-269.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 270,
+      "ar": "خَيَّاطٌ",
+      "bn": "দর্জি",
+      "sourcePages": [
+        61
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-270.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 271,
+      "ar": "جَبَانٌ",
+      "bn": "ভীরু",
+      "sourcePages": [
+        61
+      ],
+      "input": "17.jpeg",
+      "status": "imported",
+      "file": "gemini-word-271.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 272,
+      "ar": "شُجَاعٌ",
+      "bn": "সাহসী",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-272.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 273,
+      "ar": "سَائِقٌ",
+      "bn": "চালক",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-273.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 274,
+      "ar": "طَبَّاخٌ",
+      "bn": "রাঁধুনি",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-274.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 275,
+      "ar": "لَاعِبٌ",
+      "bn": "খেলোয়াড়",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-275.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 276,
+      "ar": "صَبَّانٌ",
+      "bn": "ধোপা",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-276.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 277,
+      "ar": "حَلَّاقٌ",
+      "bn": "নাপিত",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-277.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 278,
+      "ar": "مُتَوَاضِعٌ",
+      "bn": "বিনয়ী",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-278.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 279,
+      "ar": "مُتَكَبِّرٌ",
+      "bn": "অহংকারী",
+      "sourcePages": [
+        61
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-279.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 280,
+      "ar": "مَاهِرٌ",
+      "bn": "দক্ষ",
+      "sourcePages": [
+        62
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-280.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 281,
+      "ar": "غَيْرُ",
+      "bn": "নয়",
+      "sourcePages": [
+        62,
+        93
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-281.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 282,
+      "ar": "مُسْلِمٌ",
+      "bn": "মুসলিম",
+      "sourcePages": [
+        63
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-282.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 283,
+      "ar": "مُشْرِكٌ",
+      "bn": "মুশরিক",
+      "sourcePages": [
+        63
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-283.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 284,
+      "ar": "تُفَّاحَةٌ",
+      "bn": "আপেল",
+      "sourcePages": [
+        65
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-284.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 285,
+      "ar": "عِنَبٌ",
+      "bn": "আঙুর",
+      "sourcePages": [
+        65
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-285.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 286,
+      "ar": "رُمَّانَةٌ",
+      "bn": "ডালিম",
+      "sourcePages": [
+        65
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-286.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 287,
+      "ar": "بِطِّيخَةٌ",
+      "bn": "তরমুজ",
+      "sourcePages": [
+        65
+      ],
+      "input": "18.jpeg",
+      "status": "imported",
+      "file": "gemini-word-287.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 288,
+      "ar": "حُلْوٌ",
+      "bn": "মিষ্টি",
+      "sourcePages": [
+        65
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-288.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 289,
+      "ar": "حَامِضٌ",
+      "bn": "টক",
+      "sourcePages": [
+        65
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-289.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 290,
+      "ar": "سِوَارٌ",
+      "bn": "চুড়ি",
+      "sourcePages": [
+        66
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-290.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 291,
+      "ar": "مُغْلَقٌ",
+      "bn": "বন্ধ",
+      "sourcePages": [
+        67,
+        80,
+        93
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-291.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 292,
+      "ar": "الْوَلَدُ",
+      "bn": "বালকটি",
+      "sourcePages": [
+        68
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-292.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 293,
+      "ar": "السَّيَّارَةُ",
+      "bn": "গাড়িটি",
+      "sourcePages": [
+        68
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-293.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 294,
+      "ar": "الْقُفْلُ",
+      "bn": "তালাটি",
+      "sourcePages": [
+        68
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-294.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 295,
+      "ar": "صَوْبٌ",
+      "bn": "সঠিক",
+      "sourcePages": [
+        69
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-295.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 296,
+      "ar": "خَطَأٌ",
+      "bn": "ভুল",
+      "sourcePages": [
+        69
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-296.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 297,
+      "ar": "مُبْتَدَأٌ",
+      "bn": "বাক্যের বিষয়",
+      "sourcePages": [
+        69,
+        99
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-297.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 298,
+      "ar": "خَبَرٌ",
+      "bn": "বিষয় সম্পর্কে বক্তব্য",
+      "sourcePages": [
+        69,
+        99
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-298.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 299,
+      "ar": "تَمْرَةٌ",
+      "bn": "একটি খেজুর",
+      "sourcePages": [
+        70
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-299.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 300,
+      "ar": "التَّمْرُ",
+      "bn": "খেজুর",
+      "sourcePages": [
+        70
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-300.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 301,
+      "ar": "التُّفَّاحُ",
+      "bn": "আপেল",
+      "sourcePages": [
+        70
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-301.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 302,
+      "ar": "الرُّمَّانُ",
+      "bn": "ডালিম",
+      "sourcePages": [
+        70
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-302.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 303,
+      "ar": "حَيَوَانٌ",
+      "bn": "প্রাণী",
+      "sourcePages": [
+        70
+      ],
+      "input": "19.jpeg",
+      "status": "imported",
+      "file": "gemini-word-303.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 304,
+      "ar": "غُرَابٌ",
+      "bn": "কাক",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-304.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 305,
+      "ar": "فِيلٌ",
+      "bn": "হাতি",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-305.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 306,
+      "ar": "خُرْطُومٌ",
+      "bn": "শুঁড়",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-306.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 307,
+      "ar": "قِرْدٌ",
+      "bn": "বানর",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-307.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 308,
+      "ar": "عُصْفُورٌ",
+      "bn": "চড়ুই",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-308.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 309,
+      "ar": "إِنْسَانٌ",
+      "bn": "মানুষ",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-309.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 310,
+      "ar": "ذِكْرٌ",
+      "bn": "যিকির",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-310.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 311,
+      "ar": "صَدْرٌ",
+      "bn": "বুক",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-311.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 312,
+      "ar": "لِسَانٌ",
+      "bn": "জিহ্বা",
+      "sourcePages": [
+        70,
+        72
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-312.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 313,
+      "ar": "فَمٌ",
+      "bn": "মুখ",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-313.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 314,
+      "ar": "عَظِيمٌ",
+      "bn": "বিরাট",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-314.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 315,
+      "ar": "رَأْسٌ",
+      "bn": "মাথা",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-315.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 316,
+      "ar": "جِسْمٌ",
+      "bn": "শরীর",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-316.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 317,
+      "ar": "غِذَاءٌ",
+      "bn": "খাদ্য",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-317.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 318,
+      "ar": "ظَبْيٌ",
+      "bn": "হরিণ",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-318.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 319,
+      "ar": "كَلْبٌ",
+      "bn": "কুকুর",
+      "sourcePages": [
+        70
+      ],
+      "input": "20.jpeg",
+      "status": "imported",
+      "file": "gemini-word-319.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 208
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 320,
+      "ar": "فَرَسٌ",
+      "bn": "ঘোড়া",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-320.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 321,
+      "ar": "ذِئْبٌ",
+      "bn": "নেকড়ে",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-321.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 322,
+      "ar": "نَمِرٌ",
+      "bn": "বাঘ",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-322.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 323,
+      "ar": "حِمَارٌ",
+      "bn": "গাধা",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-323.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 324,
+      "ar": "بُلْبُلٌ",
+      "bn": "বুলবুলি",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-324.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 325,
+      "ar": "طَائِرٌ",
+      "bn": "পাখি",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-325.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 326,
+      "ar": "قَبِيحٌ",
+      "bn": "কুৎসিত",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-326.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 327,
+      "ar": "ضَعِيفٌ",
+      "bn": "দুর্বল",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-327.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 328,
+      "ar": "عَدُوٌّ",
+      "bn": "শত্রু",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-328.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 329,
+      "ar": "الشَّيْطَانُ",
+      "bn": "শয়তান",
+      "sourcePages": [
+        70
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-329.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 330,
+      "ar": "شَعْرٌ",
+      "bn": "চুল",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-330.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 331,
+      "ar": "سِنٌّ",
+      "bn": "দাঁত",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-331.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 332,
+      "ar": "أَنْفٌ",
+      "bn": "নাক",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-332.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 333,
+      "ar": "عَيْنٌ",
+      "bn": "চোখ",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-333.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 334,
+      "ar": "بَطْنٌ",
+      "bn": "পেট",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-334.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 335,
+      "ar": "ظُفْرٌ",
+      "bn": "নখ",
+      "sourcePages": [
+        71
+      ],
+      "input": "21.jpeg",
+      "status": "imported",
+      "file": "gemini-word-335.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 336,
+      "ar": "رَائِحَةٌ",
+      "bn": "গন্ধ",
+      "sourcePages": [
+        72,
+        91
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-336.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 337,
+      "ar": "قَرِيبٌ",
+      "bn": "নিকটবর্তী",
+      "sourcePages": [
+        72
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-337.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 338,
+      "ar": "بَعِيدٌ",
+      "bn": "দূরবর্তী",
+      "sourcePages": [
+        72
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-338.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 339,
+      "ar": "زَمِيلٌ",
+      "bn": "সহপাঠী",
+      "sourcePages": [
+        72
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-339.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 340,
+      "ar": "حَبِيبٌ",
+      "bn": "প্রিয়",
+      "sourcePages": [
+        72
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-340.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 341,
+      "ar": "فَعَلَ",
+      "bn": "সে করেছে",
+      "sourcePages": [
+        75
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-341.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 342,
+      "ar": "خَرَجَ",
+      "bn": "সে বের হয়েছে",
+      "sourcePages": [
+        75
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-342.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 343,
+      "ar": "ذَهَبَ",
+      "bn": "সে গিয়েছে",
+      "sourcePages": [
+        75
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-343.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 344,
+      "ar": "جَلَسَ",
+      "bn": "সে বসেছে",
+      "sourcePages": [
+        75
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-344.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 345,
+      "ar": "قَرَأَ",
+      "bn": "সে পড়েছে",
+      "sourcePages": [
+        75
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-345.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 346,
+      "ar": "كَتَبَ",
+      "bn": "সে লিখেছে",
+      "sourcePages": [
+        76
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-346.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 347,
+      "ar": "رَجَعَ",
+      "bn": "সে ফিরেছে",
+      "sourcePages": [
+        76
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-347.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 348,
+      "ar": "لَعِبَ",
+      "bn": "সে খেলেছে",
+      "sourcePages": [
+        76
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-348.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 349,
+      "ar": "مَكْتَبَةٌ",
+      "bn": "পাঠাগার",
+      "sourcePages": [
+        77
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-349.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 350,
+      "ar": "مَنْظَرٌ",
+      "bn": "দৃশ্য",
+      "sourcePages": [
+        77
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-350.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 351,
+      "ar": "حَجَرٌ",
+      "bn": "পাথর",
+      "sourcePages": [
+        77
+      ],
+      "input": "22.jpeg",
+      "status": "imported",
+      "file": "gemini-word-351.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 352,
+      "ar": "فِنَاءٌ",
+      "bn": "উঠান",
+      "sourcePages": [
+        77
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-352.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 353,
+      "ar": "الْجَامِعَةُ",
+      "bn": "বিশ্ববিদ্যালয়",
+      "sourcePages": [
+        77
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-353.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 354,
+      "ar": "قِصَّةٌ",
+      "bn": "গল্প",
+      "sourcePages": [
+        78
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-354.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 355,
+      "ar": "نَارٌ",
+      "bn": "আগুন",
+      "sourcePages": [
+        78,
+        85
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-355.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 356,
+      "ar": "أَسَدٌ",
+      "bn": "সিংহ",
+      "sourcePages": [
+        78
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-356.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 357,
+      "ar": "ثَعْلَبٌ",
+      "bn": "শিয়াল",
+      "sourcePages": [
+        78
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-357.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 358,
+      "ar": "يَفْعَلُ",
+      "bn": "সে করে",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-358.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 359,
+      "ar": "يَخْرُجُ",
+      "bn": "সে বের হয়",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "reused-correct-action",
+      "file": "gemini-word-342.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      },
+      "reason": "Supplied scene shows opposite direction; use matching exit/return scene"
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 360,
+      "ar": "يَذْهَبُ",
+      "bn": "সে যায়",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-360.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 361,
+      "ar": "أَفْعَلُ",
+      "bn": "আমি করি",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-361.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 362,
+      "ar": "أَخْرُجُ",
+      "bn": "আমি বের হই",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-362.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 363,
+      "ar": "أَذْهَبُ",
+      "bn": "আমি যাই",
+      "sourcePages": [
+        79
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-363.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 364,
+      "ar": "الْحُجْرَةُ",
+      "bn": "কামরাটি",
+      "sourcePages": [
+        80
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-364.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 365,
+      "ar": "الْمِنْضَدَةُ",
+      "bn": "টেবিলটি",
+      "sourcePages": [
+        80
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-365.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 366,
+      "ar": "يَجْلِسُ",
+      "bn": "সে বসে",
+      "sourcePages": [
+        81
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-366.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 367,
+      "ar": "يَقْرَأُ",
+      "bn": "সে পড়ে",
+      "sourcePages": [
+        81
+      ],
+      "input": "23.jpeg",
+      "status": "imported",
+      "file": "gemini-word-367.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 368,
+      "ar": "يَكْتُبُ",
+      "bn": "সে লেখে",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-368.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 369,
+      "ar": "يَرْجِعُ",
+      "bn": "সে ফেরে",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-369.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 370,
+      "ar": "يَلْعَبُ",
+      "bn": "সে খেলে",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-370.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 371,
+      "ar": "أَجْلِسُ",
+      "bn": "আমি বসি",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-371.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 372,
+      "ar": "أَقْرَأُ",
+      "bn": "আমি পড়ি",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-372.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 373,
+      "ar": "أَكْتُبُ",
+      "bn": "আমি লিখি",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-373.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 374,
+      "ar": "أَرْجِعُ",
+      "bn": "আমি ফিরি",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "reused-correct-action",
+      "file": "gemini-word-369.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      },
+      "reason": "Supplied scene shows opposite direction; use matching exit/return scene"
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 375,
+      "ar": "أَلْعَبُ",
+      "bn": "আমি খেলি",
+      "sourcePages": [
+        81
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-375.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 376,
+      "ar": "جِسْرٌ",
+      "bn": "সেতু",
+      "sourcePages": [
+        82
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-376.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 377,
+      "ar": "زَوْرَقٌ",
+      "bn": "নৌকা",
+      "sourcePages": [
+        82,
+        83,
+        84
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-377.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 378,
+      "ar": "سَقْفٌ",
+      "bn": "ছাদ",
+      "sourcePages": [
+        83,
+        91,
+        100
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-378.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 379,
+      "ar": "فَصْلٌ",
+      "bn": "শ্রেণিকক্ষ",
+      "sourcePages": [
+        85
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-379.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 380,
+      "ar": "مَكْتَبٌ",
+      "bn": "লেখার টেবিল",
+      "sourcePages": [
+        85
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-380.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 381,
+      "ar": "سَفِينَةٌ",
+      "bn": "জাহাজ",
+      "sourcePages": [
+        86
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-381.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 382,
+      "ar": "جَيْبٌ",
+      "bn": "পকেট",
+      "sourcePages": [
+        86
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-382.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 383,
+      "ar": "الْعَالَمُ",
+      "bn": "পৃথিবী",
+      "sourcePages": [
+        86
+      ],
+      "input": "24.jpeg",
+      "status": "imported",
+      "file": "gemini-word-383.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 384,
+      "ar": "اِفْعَلْ",
+      "bn": "করো",
+      "sourcePages": [
+        87
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-384.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 385,
+      "ar": "اُخْرُجْ",
+      "bn": "বের হও",
+      "sourcePages": [
+        87
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-385.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 386,
+      "ar": "اِذْهَبْ",
+      "bn": "যাও",
+      "sourcePages": [
+        87
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-386.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 387,
+      "ar": "اِجْلِسْ",
+      "bn": "বসো",
+      "sourcePages": [
+        87
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-387.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 388,
+      "ar": "اِقْرَأْ",
+      "bn": "পড়ো",
+      "sourcePages": [
+        87
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-388.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 389,
+      "ar": "اُكْتُبْ",
+      "bn": "লেখো",
+      "sourcePages": [
+        88
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-389.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 390,
+      "ar": "اِرْجِعْ",
+      "bn": "ফিরে এসো",
+      "sourcePages": [
+        88
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-390.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 8,
+      "row": 2,
+      "column": 4,
+      "wordId": 391,
+      "ar": "اِلْعَبْ",
+      "bn": "খেলো",
+      "sourcePages": [
+        88
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-391.webp",
+      "crop": {
+        "x": 772,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 9,
+      "row": 3,
+      "column": 1,
+      "wordId": 392,
+      "ar": "إِمَامٌ",
+      "bn": "ইমাম",
+      "sourcePages": [
+        90
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-392.webp",
+      "crop": {
+        "x": 4,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 10,
+      "row": 3,
+      "column": 2,
+      "wordId": 393,
+      "ar": "خَادِمٌ",
+      "bn": "সেবক",
+      "sourcePages": [
+        90
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-393.webp",
+      "crop": {
+        "x": 260,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 11,
+      "row": 3,
+      "column": 3,
+      "wordId": 394,
+      "ar": "مُؤَذِّنٌ",
+      "bn": "মুয়াজ্জিন",
+      "sourcePages": [
+        90
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-394.webp",
+      "crop": {
+        "x": 516,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 12,
+      "row": 3,
+      "column": 4,
+      "wordId": 395,
+      "ar": "فُلَانٌ",
+      "bn": "অমুক",
+      "sourcePages": [
+        90
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-395.webp",
+      "crop": {
+        "x": 772,
+        "y": 516,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 13,
+      "row": 4,
+      "column": 1,
+      "wordId": 396,
+      "ar": "صَالِحٌ",
+      "bn": "সৎ",
+      "sourcePages": [
+        91
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-396.webp",
+      "crop": {
+        "x": 4,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 14,
+      "row": 4,
+      "column": 2,
+      "wordId": 397,
+      "ar": "صُورَةٌ",
+      "bn": "ছবি",
+      "sourcePages": [
+        91
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-397.webp",
+      "crop": {
+        "x": 260,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 15,
+      "row": 4,
+      "column": 3,
+      "wordId": 398,
+      "ar": "دُكَّانٌ",
+      "bn": "দোকান",
+      "sourcePages": [
+        92
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-398.webp",
+      "crop": {
+        "x": 516,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 16,
+      "row": 4,
+      "column": 4,
+      "wordId": 399,
+      "ar": "صَاحِبٌ",
+      "bn": "মালিক",
+      "sourcePages": [
+        92,
+        98
+      ],
+      "input": "25.jpeg",
+      "status": "imported",
+      "file": "gemini-word-399.webp",
+      "crop": {
+        "x": 772,
+        "y": 772,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 1,
+      "row": 1,
+      "column": 1,
+      "wordId": 400,
+      "ar": "حَوْضٌ",
+      "bn": "চৌবাচ্চা",
+      "sourcePages": [
+        96,
+        98
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-400.webp",
+      "crop": {
+        "x": 4,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 2,
+      "row": 1,
+      "column": 2,
+      "wordId": 401,
+      "ar": "مَوْصُوفٌ",
+      "bn": "বিশেষ্য",
+      "sourcePages": [
+        99
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-401.webp",
+      "crop": {
+        "x": 260,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 3,
+      "row": 1,
+      "column": 3,
+      "wordId": 402,
+      "ar": "صِفَةٌ",
+      "bn": "বিশেষণ",
+      "sourcePages": [
+        99
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-402.webp",
+      "crop": {
+        "x": 516,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 4,
+      "row": 1,
+      "column": 4,
+      "wordId": 403,
+      "ar": "سَجَّادَةٌ",
+      "bn": "জায়নামাজ",
+      "sourcePages": [
+        102
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-403.webp",
+      "crop": {
+        "x": 772,
+        "y": 4,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 5,
+      "row": 2,
+      "column": 1,
+      "wordId": 404,
+      "ar": "الْجُزْءُ",
+      "bn": "খণ্ড",
+      "sourcePages": [
+        102
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-404.webp",
+      "crop": {
+        "x": 4,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 6,
+      "row": 2,
+      "column": 2,
+      "wordId": 405,
+      "ar": "الْأَوَّلُ",
+      "bn": "প্রথম",
+      "sourcePages": [
+        102
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-405.webp",
+      "crop": {
+        "x": 260,
+        "y": 260,
+        "width": 248,
+        "height": 248
+      }
+    },
+    {
+      "cell": 7,
+      "row": 2,
+      "column": 3,
+      "wordId": 406,
+      "ar": "فَضْلٌ",
+      "bn": "অনুগ্রহ",
+      "sourcePages": [
+        102
+      ],
+      "input": "26.jpeg",
+      "status": "imported",
+      "file": "gemini-word-406.webp",
+      "crop": {
+        "x": 516,
+        "y": 260,
         "width": 248,
         "height": 248
       }
