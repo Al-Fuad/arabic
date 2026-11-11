@@ -13,7 +13,7 @@ test('recorded word plays without device voice and cancels before fallback can r
  global.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
  global.Audio=class{constructor(src){this.src=src;players.push(this)}play(){return new Promise((_,reject)=>{rejectFirst=reject})}pause(){this.paused=true}};
  try{
-  speakArabic('كِتَابٌ');assert.equal(players.length,1);assert.match(players[0].src,/^\/audio\/words\//);assert.equal(spoken.length,0);
+  speakArabic('كِتَابٌ');assert.equal(players.length,1);assert.match(players[0].src,/^\/audio\/(?:words|imported)\//);assert.equal(spoken.length,0);
   speakArabic('هَذَا كِتَابٌ.');assert.equal(players[0].paused,true);assert.equal(spoken.length,1);
   rejectFirst(Error('old playback rejected'));await Promise.resolve();assert.equal(spoken.length,1);
  }finally{stopArabic();delete global.Audio;delete global.window;delete global.SpeechSynthesisUtterance;}
